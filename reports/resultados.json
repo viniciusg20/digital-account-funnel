@@ -1,0 +1,447 @@
+{
+  "sessoes": 235722,
+  "usuarios": 107506,
+  "funil": [
+    {
+      "ordem": 1,
+      "etapa": "Sessões",
+      "volume": 235722.0,
+      "pct_do_topo": 1.0,
+      "conv_etapa_anterior": NaN,
+      "abandono_etapa": NaN
+    },
+    {
+      "ordem": 2,
+      "etapa": "Sessões engajadas",
+      "volume": 166902.0,
+      "pct_do_topo": 0.7080459184972128,
+      "conv_etapa_anterior": 0.7080459184972128,
+      "abandono_etapa": 0.29195408150278723
+    },
+    {
+      "ordem": 3,
+      "etapa": "Clique em \"Abrir conta\"",
+      "volume": 10062.0,
+      "pct_do_topo": 0.042685875734975946,
+      "conv_etapa_anterior": 0.06028687493259518,
+      "abandono_etapa": 0.9397131250674048
+    },
+    {
+      "ordem": 4,
+      "etapa": "Início do onboarding",
+      "volume": 10062.0,
+      "pct_do_topo": 0.042685875734975946,
+      "conv_etapa_anterior": 1.0,
+      "abandono_etapa": 0.0
+    },
+    {
+      "ordem": 5,
+      "etapa": "1ª etapa concluída",
+      "volume": 7695.0,
+      "pct_do_topo": 0.032644386183724894,
+      "conv_etapa_anterior": 0.7647584973166368,
+      "abandono_etapa": 0.2352415026833632
+    },
+    {
+      "ordem": 6,
+      "etapa": "Cadastro enviado (sign_up)",
+      "volume": 5390.0,
+      "pct_do_topo": 0.0228659183275214,
+      "conv_etapa_anterior": 0.700454840805718,
+      "abandono_etapa": 0.29954515919428204
+    },
+    {
+      "ordem": 7,
+      "etapa": "Conta aprovada (KYC)",
+      "volume": 4637.0,
+      "pct_do_topo": 0.019671477418314796,
+      "conv_etapa_anterior": 0.8602968460111318,
+      "abandono_etapa": 0.13970315398886823
+    },
+    {
+      "ordem": 8,
+      "etapa": "Primeiro depósito (ativação)",
+      "volume": 3157.0,
+      "pct_do_topo": 0.013392895020405393,
+      "conv_etapa_anterior": 0.6808281216303644,
+      "abandono_etapa": 0.31917187836963556
+    }
+  ],
+  "teste_ab": {
+    "unidade": "usuário que iniciou o onboarding",
+    "srm": {
+      "n_a": 4939,
+      "n_b": 4845,
+      "p_valor": 0.34194994378736593,
+      "srm_detectado": false
+    },
+    "frequentista": {
+      "conv_a": 0.5383680907066207,
+      "conv_b": 0.5636738906088752,
+      "lift_abs": 0.025305799902254456,
+      "lift_rel": 0.04700464299256657,
+      "ic95_lift_abs": [
+        0.005600387052418283,
+        0.04501121275209063
+      ],
+      "z": 2.516055904836132,
+      "p_valor": 0.011867635667640954,
+      "significativo": true
+    },
+    "bayesiano": {
+      "prob_b_melhor": 0.99402,
+      "perda_esperada_escolher_b": 1.8662635712631105e-05,
+      "lift_rel_mediano": 0.046933494586707036,
+      "ic95_lift_rel": [
+        0.010266451991591841,
+        0.0850609344019787
+      ]
+    },
+    "amostra_por_braco_para_mde_5pct": 5357,
+    "amostra_por_braco_para_mde_10pct": 1330,
+    "por_dispositivo": {
+      "desktop": {
+        "conv_a": 0.6057636887608069,
+        "conv_b": 0.6408614668218859,
+        "lift_abs": 0.035097778061079055,
+        "lift_rel": 0.0579397192540172,
+        "ic95_lift_abs": [
+          0.0027961934294821814,
+          0.06739936269267593
+        ],
+        "z": 2.1280383493822956,
+        "p_valor": 0.03333390411083319,
+        "significativo": true
+      },
+      "mobile": {
+        "conv_a": 0.50187265917603,
+        "conv_b": 0.5212663895107131,
+        "lift_abs": 0.019393730334683168,
+        "lift_rel": 0.03864273133851048,
+        "ic95_lift_abs": [
+          -0.005229422360267619,
+          0.044016883029633955
+        ],
+        "z": 1.54340293373072,
+        "p_valor": 0.12273304232155967,
+        "significativo": false
+      }
+    }
+  },
+  "eficiencia_canal": [
+    {
+      "canal": "Paid Social",
+      "sessoes": 61242,
+      "contas": 1296,
+      "aprovadas": 1112.0,
+      "ativadas": 736.0,
+      "deposito_total": 2150091.39,
+      "custo": 107511.41000000012,
+      "cliques": 73919.0,
+      "conv_sessao_conta": 0.021161947682962673,
+      "taxa_ativacao": 0.5679012345679012,
+      "cac": 82.95633487654331,
+      "custo_por_ativacao": 146.0752853260871,
+      "receita_anual_estimada": 75253.19865,
+      "roas_12m": 0.6999554619365509
+    },
+    {
+      "canal": "Direct",
+      "sessoes": 94506,
+      "contas": 1036,
+      "aprovadas": 886.0,
+      "ativadas": 607.0,
+      "deposito_total": 1916783.0900000003,
+      "custo": 0.0,
+      "cliques": NaN,
+      "conv_sessao_conta": 0.01096226694601401,
+      "taxa_ativacao": 0.5859073359073359,
+      "cac": 0.0,
+      "custo_por_ativacao": 0.0,
+      "receita_anual_estimada": 67087.40815000002,
+      "roas_12m": NaN
+    },
+    {
+      "canal": "Paid Search",
+      "sessoes": 25268,
+      "contas": 965,
+      "aprovadas": 833.0,
+      "ativadas": 586.0,
+      "deposito_total": 2749745.030000003,
+      "custo": 56965.859999999986,
+      "cliques": 30406.0,
+      "conv_sessao_conta": 0.03819059680227956,
+      "taxa_ativacao": 0.6072538860103627,
+      "cac": 59.03197927461139,
+      "custo_por_ativacao": 97.21136518771328,
+      "receita_anual_estimada": 96241.07605000012,
+      "roas_12m": 1.6894518234254718
+    },
+    {
+      "canal": "CRM / E-mail",
+      "sessoes": 20645,
+      "contas": 903,
+      "aprovadas": 781.0,
+      "ativadas": 538.0,
+      "deposito_total": 1972474.260000001,
+      "custo": 0.0,
+      "cliques": NaN,
+      "conv_sessao_conta": 0.043739404214095425,
+      "taxa_ativacao": 0.5957918050941307,
+      "cac": 0.0,
+      "custo_por_ativacao": 0.0,
+      "receita_anual_estimada": 69036.59910000004,
+      "roas_12m": NaN
+    },
+    {
+      "canal": "Organic Search",
+      "sessoes": 17151,
+      "contas": 701,
+      "aprovadas": 609.0,
+      "ativadas": 415.0,
+      "deposito_total": 1153935.1700000004,
+      "custo": 0.0,
+      "cliques": NaN,
+      "conv_sessao_conta": 0.04087225234680194,
+      "taxa_ativacao": 0.5920114122681883,
+      "cac": 0.0,
+      "custo_por_ativacao": 0.0,
+      "receita_anual_estimada": 40387.73095000002,
+      "roas_12m": NaN
+    },
+    {
+      "canal": "Afiliados",
+      "sessoes": 7365,
+      "contas": 241,
+      "aprovadas": 202.0,
+      "ativadas": 136.0,
+      "deposito_total": 402280.33,
+      "custo": 13255.0,
+      "cliques": NaN,
+      "conv_sessao_conta": 0.03272233536999321,
+      "taxa_ativacao": 0.5643153526970954,
+      "cac": 55.0,
+      "custo_por_ativacao": 97.46323529411765,
+      "receita_anual_estimada": 14079.811550000002,
+      "roas_12m": 1.0622264466239157
+    },
+    {
+      "canal": "Influenciadores",
+      "sessoes": 6055,
+      "contas": 154,
+      "aprovadas": 129.0,
+      "ativadas": 80.0,
+      "deposito_total": 223350.28999999998,
+      "custo": 63000.0,
+      "cliques": 0.0,
+      "conv_sessao_conta": 0.025433526011560695,
+      "taxa_ativacao": 0.5194805194805194,
+      "cac": 409.09090909090907,
+      "custo_por_ativacao": 787.5,
+      "receita_anual_estimada": 7817.26015,
+      "roas_12m": 0.12408349444444444
+    },
+    {
+      "canal": "Referral",
+      "sessoes": 3490,
+      "contas": 123,
+      "aprovadas": 106.0,
+      "ativadas": 73.0,
+      "deposito_total": 252832.61000000004,
+      "custo": 0.0,
+      "cliques": NaN,
+      "conv_sessao_conta": 0.03524355300859599,
+      "taxa_ativacao": 0.5934959349593496,
+      "cac": 0.0,
+      "custo_por_ativacao": 0.0,
+      "receita_anual_estimada": 8849.141350000002,
+      "roas_12m": NaN
+    }
+  ],
+  "atribuicao_markov": [
+    {
+      "canal": "Direct",
+      "efeito_remocao": 0.5869293582146857,
+      "conversoes": 1914.9622404673755,
+      "modelo": "markov"
+    },
+    {
+      "canal": "Paid Social",
+      "efeito_remocao": 0.31634588203358094,
+      "conversoes": 1032.1351463221056,
+      "modelo": "markov"
+    },
+    {
+      "canal": "Paid Search",
+      "efeito_remocao": 0.23507596593793334,
+      "conversoes": 766.9774771223458,
+      "modelo": "markov"
+    },
+    {
+      "canal": "CRM / E-mail",
+      "efeito_remocao": 0.19667474411395847,
+      "conversoes": 641.6866073583811,
+      "modelo": "markov"
+    },
+    {
+      "canal": "Organic Search",
+      "efeito_remocao": 0.1808371443005109,
+      "conversoes": 590.013599017756,
+      "modelo": "markov"
+    },
+    {
+      "canal": "Afiliados",
+      "efeito_remocao": 0.06054660512360066,
+      "conversoes": 197.54415242212826,
+      "modelo": "markov"
+    },
+    {
+      "canal": "Influenciadores",
+      "efeito_remocao": 0.043429981295739606,
+      "conversoes": 141.69809896462047,
+      "modelo": "markov"
+    },
+    {
+      "canal": "Referral",
+      "efeito_remocao": 0.03217683080689937,
+      "conversoes": 104.98267832528732,
+      "modelo": "markov"
+    }
+  ],
+  "qa_tracking": [
+    {
+      "teste": "UTM source fora da taxonomia",
+      "severidade": "alta",
+      "ocorrencias": 1636.0,
+      "base": 119845.0,
+      "exemplos": "ig, Facebook",
+      "pct": 0.013650965830864868
+    },
+    {
+      "teste": "UTM medium com maiúscula, espaço ou hífen",
+      "severidade": "alta",
+      "ocorrencias": 1676.0,
+      "base": 119845.0,
+      "exemplos": "\"cpc \", \"Paid-Social\"",
+      "pct": 0.013984730276607285
+    },
+    {
+      "teste": "Sessão do Google Ads só com gclid (sem utm_campaign)",
+      "severidade": "média",
+      "ocorrencias": 730.0,
+      "base": 24377.0,
+      "exemplos": NaN,
+      "pct": 0.029946260819625058
+    },
+    {
+      "teste": "first_deposit duplicado (mesmo transaction_id)",
+      "severidade": "crítica",
+      "ocorrencias": 45.0,
+      "base": 3078.0,
+      "exemplos": "client + server disparando a mesma conversão",
+      "pct": 0.014619883040935672
+    },
+    {
+      "teste": "Evento sem ga_session_id",
+      "severidade": "média",
+      "ocorrencias": 3078.0,
+      "base": 834820.0,
+      "exemplos": "first_deposit",
+      "pct": 0.0036870223521238113
+    },
+    {
+      "teste": "sign_up sem begin_onboarding na mesma sessão",
+      "severidade": "alta",
+      "ocorrencias": 0.0,
+      "base": 5390.0,
+      "exemplos": NaN,
+      "pct": 0.0
+    },
+    {
+      "teste": "Cliques pagos sem sessão medida (consentimento/perda de tag)",
+      "severidade": "média",
+      "ocorrencias": 17815.0,
+      "base": 104325.0,
+      "exemplos": "esperado 10–30% com Consent Mode e bloqueadores",
+      "pct": 0.17076443805415767
+    },
+    {
+      "teste": "Usuários que trocaram de dispositivo (jornada quebrada)",
+      "severidade": "informativa",
+      "ocorrencias": 138.0,
+      "base": 5390.0,
+      "exemplos": "só detectável depois do login: motivo para enviar user_id",
+      "pct": 0.025602968460111317
+    }
+  ],
+  "app": [
+    {
+      "media_source": "organic",
+      "installs": 1753,
+      "installs_android": 1275,
+      "installs_ios": 478,
+      "cadastros": 500,
+      "primeiros_depositos": 279,
+      "install_para_cadastro": 0.2852253280091272,
+      "receita_deposito": 1044374.2100000001
+    },
+    {
+      "media_source": "Facebook Ads",
+      "installs": 628,
+      "installs_android": 449,
+      "installs_ios": 179,
+      "cadastros": 186,
+      "primeiros_depositos": 114,
+      "install_para_cadastro": 0.2961783439490446,
+      "receita_deposito": 345947.12999999995
+    },
+    {
+      "media_source": "googleadwords_int",
+      "installs": 316,
+      "installs_android": 235,
+      "installs_ios": 81,
+      "cadastros": 89,
+      "primeiros_depositos": 52,
+      "install_para_cadastro": 0.28164556962025317,
+      "receita_deposito": 307319.14999999997
+    },
+    {
+      "media_source": "tiktokglobal_int",
+      "installs": 135,
+      "installs_android": 93,
+      "installs_ios": 42,
+      "cadastros": 51,
+      "primeiros_depositos": 31,
+      "install_para_cadastro": 0.37777777777777777,
+      "receita_deposito": 102144.45999999998
+    },
+    {
+      "media_source": "afiliados_int",
+      "installs": 104,
+      "installs_android": 78,
+      "installs_ios": 26,
+      "cadastros": 39,
+      "primeiros_depositos": 25,
+      "install_para_cadastro": 0.375,
+      "receita_deposito": 57111.98
+    },
+    {
+      "media_source": "influencer_int",
+      "installs": 97,
+      "installs_android": 72,
+      "installs_ios": 25,
+      "cadastros": 34,
+      "primeiros_depositos": 18,
+      "install_para_cadastro": 0.35051546391752575,
+      "receita_deposito": 39373.25
+    }
+  ],
+  "reconciliacao_mmp": [
+    {
+      "cadastros_mmp": 899,
+      "contas_backend_app": 899,
+      "cadastros_sem_conta": 0,
+      "installs_sem_cadastro": 2134
+    }
+  ]
+}

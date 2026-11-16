@@ -1,0 +1,49 @@
+modelo,canal,conversoes
+first_click,Direct,1272.0
+first_click,Paid Search,1108.0
+first_click,Paid Social,1080.0
+first_click,Organic Search,873.0
+first_click,CRM / E-mail,433.0
+first_click,Afiliados,287.0
+first_click,Influenciadores,179.0
+first_click,Referral,158.0
+last_click,Direct,2700.0
+last_click,CRM / E-mail,734.0
+last_click,Paid Social,696.0
+last_click,Paid Search,662.0
+last_click,Organic Search,333.0
+last_click,Afiliados,141.0
+last_click,Influenciadores,84.0
+last_click,Referral,40.0
+last_non_direct_click,Paid Social,1284.0
+last_non_direct_click,Direct,1033.0
+last_non_direct_click,Paid Search,958.0
+last_non_direct_click,CRM / E-mail,901.0
+last_non_direct_click,Organic Search,698.0
+last_non_direct_click,Afiliados,241.0
+last_non_direct_click,Influenciadores,153.0
+last_non_direct_click,Referral,122.0
+linear,Direct,2032.2107142856905
+linear,Paid Social,921.9809523809596
+linear,Paid Search,858.0547619047653
+linear,CRM / E-mail,582.1892857142849
+linear,Organic Search,569.4047619047615
+linear,Afiliados,209.71666666666675
+linear,Influenciadores,125.0833333333333
+linear,Referral,91.35952380952382
+position_based,Direct,2007.5100000000323
+position_based,Paid Social,905.05
+position_based,Paid Search,871.9733333333306
+position_based,Organic Search,587.2666666666645
+position_based,CRM / E-mail,582.7166666666647
+position_based,Afiliados,211.86666666666684
+position_based,Influenciadores,128.2833333333334
+position_based,Referral,95.33333333333337
+markov,Direct,1914.9622404673755
+markov,Paid Social,1032.1351463221056
+markov,Paid Search,766.9774771223458
+markov,CRM / E-mail,641.6866073583811
+markov,Organic Search,590.013599017756
+markov,Afiliados,197.54415242212826
+markov,Influenciadores,141.69809896462047
+markov,Referral,104.98267832528732

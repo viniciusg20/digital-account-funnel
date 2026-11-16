@@ -1,0 +1,19 @@
+# base completa simulada (~60 dias): reproduzível com `python -m funnel.pipeline --simular`
+data/ga4_export/
+data/mmp/
+data/midia/
+data/backend_contas.parquet
+data/processed/
+
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+.env
+.vscode/
+Thumbs.db
+.DS_Store
+
+# CI (sobe quando o token tiver escopo workflow)
+.github/

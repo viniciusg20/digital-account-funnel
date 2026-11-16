@@ -1,0 +1,9 @@
+teste,severidade,ocorrencias,base,exemplos,pct
+UTM source fora da taxonomia,alta,1636.0,119845.0,"ig, Facebook",0.013650965830864868
+"UTM medium com maiúscula, espaço ou hífen",alta,1676.0,119845.0,"""cpc "", ""Paid-Social""",0.013984730276607285
+Sessão do Google Ads só com gclid (sem utm_campaign),média,730.0,24377.0,,0.029946260819625058
+first_deposit duplicado (mesmo transaction_id),crítica,45.0,3078.0,client + server disparando a mesma conversão,0.014619883040935672
+Evento sem ga_session_id,média,3078.0,834820.0,first_deposit,0.0036870223521238113
+sign_up sem begin_onboarding na mesma sessão,alta,0.0,5390.0,,0.0
+Cliques pagos sem sessão medida (consentimento/perda de tag),média,17815.0,104325.0,esperado 10–30% com Consent Mode e bloqueadores,0.17076443805415767
+Usuários que trocaram de dispositivo (jornada quebrada),informativa,138.0,5390.0,só detectável depois do login: motivo para enviar user_id,0.025602968460111317

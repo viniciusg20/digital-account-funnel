@@ -1,0 +1,1738 @@
+data,canal,device,campanha,sessoes,engajadas,cliques_cta,inicios_onboarding,cadastros
+2026-08-01,Afiliados,desktop,br_affiliate_cashback,19,11,0,0,0
+2026-08-01,Afiliados,mobile,br_affiliate_cashback,71,51,3,3,3
+2026-08-01,CRM / E-mail,desktop,br_crm_investimentos_newsletter,38,33,2,2,2
+2026-08-01,CRM / E-mail,mobile,br_crm_investimentos_newsletter,49,39,4,4,1
+2026-08-01,Direct,desktop,,104,75,5,5,3
+2026-08-01,Direct,mobile,,170,130,8,8,3
+2026-08-01,Influenciadores,desktop,br_influencer_financas-pessoais,7,6,1,1,1
+2026-08-01,Influenciadores,mobile,br_influencer_financas-pessoais,51,33,0,0,0
+2026-08-01,Organic Search,desktop,,92,64,7,7,4
+2026-08-01,Organic Search,mobile,,132,87,10,10,3
+2026-08-01,Paid Search,desktop,(auto-tagging sem utm),2,1,0,0,0
+2026-08-01,Paid Search,desktop,br_search_conta-digital_brand,50,35,1,1,0
+2026-08-01,Paid Search,desktop,br_search_conta-digital_generic,33,22,1,1,0
+2026-08-01,Paid Search,desktop,br_social_investimentos_remarketing,1,1,0,0,0
+2026-08-01,Paid Search,mobile,(auto-tagging sem utm),5,3,0,0,0
+2026-08-01,Paid Search,mobile,br_search_conta-digital_brand,69,56,4,4,3
+2026-08-01,Paid Search,mobile,br_search_conta-digital_generic,74,58,4,4,1
+2026-08-01,Paid Search,mobile,br_social_conta-digital_jovens,1,1,0,0,0
+2026-08-01,Paid Search,mobile,br_social_conta-digital_prospecting,1,0,0,0,0
+2026-08-01,Paid Social,desktop,br_social_conta-digital_jovens,6,2,0,0,0
+2026-08-01,Paid Social,desktop,br_social_conta-digital_prospecting,12,4,0,0,0
+2026-08-01,Paid Social,desktop,br_social_investimentos_remarketing,25,19,0,0,0
+2026-08-01,Paid Social,mobile,br_social_conta-digital_jovens,97,46,0,0,0
+2026-08-01,Paid Social,mobile,br_social_conta-digital_prospecting,115,61,3,3,0
+2026-08-01,Paid Social,mobile,br_social_investimentos_remarketing,122,75,1,1,0
+2026-08-01,Referral,desktop,,22,14,1,1,0
+2026-08-01,Referral,mobile,,29,20,1,1,0
+2026-08-02,Afiliados,desktop,br_affiliate_cashback,22,11,0,0,0
+2026-08-02,Afiliados,mobile,br_affiliate_cashback,64,45,0,0,0
+2026-08-02,CRM / E-mail,desktop,br_crm_investimentos_newsletter,34,23,2,2,2
+2026-08-02,CRM / E-mail,mobile,br_crm_investimentos_newsletter,79,66,4,4,3
+2026-08-02,Direct,desktop,,201,150,6,6,5
+2026-08-02,Direct,mobile,,267,193,10,10,8
+2026-08-02,Influenciadores,desktop,br_influencer_financas-pessoais,6,6,0,0,0
+2026-08-02,Influenciadores,mobile,br_influencer_financas-pessoais,76,49,2,2,2
+2026-08-02,Organic Search,desktop,,126,86,4,4,2
+2026-08-02,Organic Search,mobile,,158,111,6,6,1
+2026-08-02,Paid Search,desktop,(auto-tagging sem utm),3,3,0,0,0
+2026-08-02,Paid Search,desktop,br_search_conta-digital_brand,50,37,3,3,2
+2026-08-02,Paid Search,desktop,br_search_conta-digital_generic,46,35,2,2,1
+2026-08-02,Paid Search,desktop,br_social_investimentos_remarketing,1,1,0,0,0
+2026-08-02,Paid Search,mobile,(auto-tagging sem utm),8,7,0,0,0
+2026-08-02,Paid Search,mobile,br_search_conta-digital_brand,103,73,5,5,3
+2026-08-02,Paid Search,mobile,br_search_conta-digital_generic,94,74,3,3,0
+2026-08-02,Paid Search,mobile,br_social_conta-digital_jovens,2,0,0,0,0
+2026-08-02,Paid Search,mobile,br_social_conta-digital_prospecting,2,0,0,0,0
+2026-08-02,Paid Search,mobile,br_social_investimentos_remarketing,1,1,0,0,0
+2026-08-02,Paid Social,desktop,br_social_conta-digital_jovens,8,4,0,0,0
+2026-08-02,Paid Social,desktop,br_social_conta-digital_prospecting,22,10,1,1,0
+2026-08-02,Paid Social,desktop,br_social_investimentos_remarketing,68,44,4,4,2
+2026-08-02,Paid Social,mobile,br_social_conta-digital_jovens,148,78,2,2,1
+2026-08-02,Paid Social,mobile,br_social_conta-digital_prospecting,133,81,1,1,0
+2026-08-02,Paid Social,mobile,br_social_investimentos_remarketing,215,119,2,2,2
+2026-08-02,Referral,desktop,,28,18,2,2,0
+2026-08-02,Referral,mobile,,39,20,1,1,1
+2026-08-03,Afiliados,desktop,br_affiliate_cashback,12,7,0,0,0
+2026-08-03,Afiliados,mobile,br_affiliate_cashback,77,49,3,3,2
+2026-08-03,CRM / E-mail,desktop,br_crm_investimentos_newsletter,69,54,1,1,1
+2026-08-03,CRM / E-mail,mobile,br_crm_investimentos_newsletter,96,77,6,6,1
+2026-08-03,Direct,desktop,,250,180,8,8,8
+2026-08-03,Direct,mobile,,389,292,27,27,14
+2026-08-03,Influenciadores,desktop,br_influencer_financas-pessoais,2,1,0,0,0
+2026-08-03,Influenciadores,mobile,br_influencer_financas-pessoais,72,44,5,5,3
+2026-08-03,Organic Search,desktop,,137,95,2,2,1
+2026-08-03,Organic Search,mobile,,156,114,7,7,7
+2026-08-03,Paid Search,desktop,(auto-tagging sem utm),6,4,0,0,0
+2026-08-03,Paid Search,desktop,br_search_conta-digital_brand,47,38,4,4,2
+2026-08-03,Paid Search,desktop,br_search_conta-digital_generic,52,41,3,3,2
+2026-08-03,Paid Search,mobile,(auto-tagging sem utm),12,7,0,0,0
+2026-08-03,Paid Search,mobile,br_search_conta-digital_brand,95,66,4,4,3
+2026-08-03,Paid Search,mobile,br_search_conta-digital_generic,98,66,3,3,2
+2026-08-03,Paid Search,mobile,br_social_conta-digital_jovens,2,2,0,0,0
+2026-08-03,Paid Search,mobile,br_social_conta-digital_prospecting,2,0,0,0,0
+2026-08-03,Paid Search,mobile,br_social_investimentos_remarketing,4,2,0,0,0
+2026-08-03,Paid Social,desktop,br_social_conta-digital_jovens,8,5,1,1,1
+2026-08-03,Paid Social,desktop,br_social_conta-digital_prospecting,19,7,1,1,1
+2026-08-03,Paid Social,desktop,br_social_investimentos_remarketing,68,36,1,1,1
+2026-08-03,Paid Social,mobile,br_social_conta-digital_jovens,151,71,3,3,2
+2026-08-03,Paid Social,mobile,br_social_conta-digital_prospecting,136,88,2,2,1
+2026-08-03,Paid Social,mobile,br_social_investimentos_remarketing,273,153,8,8,4
+2026-08-03,Referral,desktop,,30,20,0,0,0
+2026-08-03,Referral,mobile,,25,13,0,0,0
+2026-08-04,Afiliados,desktop,br_affiliate_cashback,18,12,0,0,0
+2026-08-04,Afiliados,mobile,br_affiliate_cashback,82,60,4,4,4
+2026-08-04,CRM / E-mail,desktop,br_crm_investimentos_newsletter,83,71,5,5,4
+2026-08-04,CRM / E-mail,mobile,br_crm_investimentos_newsletter,122,101,10,10,6
+2026-08-04,Direct,desktop,,319,245,15,15,8
+2026-08-04,Direct,mobile,,519,400,30,30,19
+2026-08-04,Influenciadores,desktop,br_influencer_financas-pessoais,7,6,1,1,0
+2026-08-04,Influenciadores,mobile,br_influencer_financas-pessoais,73,41,4,4,2
+2026-08-04,Organic Search,desktop,,100,54,2,2,1
+2026-08-04,Organic Search,mobile,,164,109,4,4,1
+2026-08-04,Paid Search,desktop,(auto-tagging sem utm),3,2,0,0,0
+2026-08-04,Paid Search,desktop,br_search_conta-digital_brand,51,37,2,2,2
+2026-08-04,Paid Search,desktop,br_search_conta-digital_generic,56,46,1,1,1
+2026-08-04,Paid Search,desktop,br_social_conta-digital_jovens,1,0,0,0,0
+2026-08-04,Paid Search,desktop,br_social_investimentos_remarketing,1,1,0,0,0
+2026-08-04,Paid Search,mobile,(auto-tagging sem utm),3,1,0,0,0
+2026-08-04,Paid Search,mobile,br_search_conta-digital_brand,92,68,6,6,1
+2026-08-04,Paid Search,mobile,br_search_conta-digital_generic,115,85,7,7,4
+2026-08-04,Paid Search,mobile,br_social_conta-digital_jovens,2,0,0,0,0
+2026-08-04,Paid Search,mobile,br_social_conta-digital_prospecting,2,2,0,0,0
+2026-08-04,Paid Search,mobile,br_social_investimentos_remarketing,3,3,0,0,0
+2026-08-04,Paid Social,desktop,br_social_conta-digital_jovens,8,5,0,0,0
+2026-08-04,Paid Social,desktop,br_social_conta-digital_prospecting,22,15,0,0,0
+2026-08-04,Paid Social,desktop,br_social_investimentos_remarketing,110,65,3,3,2
+2026-08-04,Paid Social,mobile,br_social_conta-digital_jovens,142,70,1,1,0
+2026-08-04,Paid Social,mobile,br_social_conta-digital_prospecting,123,69,3,3,0
+2026-08-04,Paid Social,mobile,br_social_investimentos_remarketing,312,201,4,4,2
+2026-08-04,Referral,desktop,,27,21,0,0,0
+2026-08-04,Referral,mobile,,33,24,2,2,2
+2026-08-05,Afiliados,desktop,br_affiliate_cashback,22,14,4,4,2
+2026-08-05,Afiliados,mobile,br_affiliate_cashback,85,54,6,6,2
+2026-08-05,CRM / E-mail,desktop,br_crm_investimentos_newsletter,99,83,5,5,4
+2026-08-05,CRM / E-mail,mobile,br_crm_investimentos_newsletter,139,117,5,5,4
+2026-08-05,Direct,desktop,,362,262,18,18,12
+2026-08-05,Direct,mobile,,636,502,33,33,18
+2026-08-05,Influenciadores,desktop,br_influencer_financas-pessoais,4,3,0,0,0
+2026-08-05,Influenciadores,mobile,br_influencer_financas-pessoais,73,48,2,2,1
+2026-08-05,Organic Search,desktop,,113,85,7,7,5
+2026-08-05,Organic Search,mobile,,156,107,4,4,3
+2026-08-05,Paid Search,desktop,(auto-tagging sem utm),4,3,0,0,0
+2026-08-05,Paid Search,desktop,br_search_conta-digital_brand,56,41,1,1,0
+2026-08-05,Paid Search,desktop,br_search_conta-digital_generic,68,55,2,2,2
+2026-08-05,Paid Search,desktop,br_social_investimentos_remarketing,1,0,0,0,0
+2026-08-05,Paid Search,mobile,(auto-tagging sem utm),2,1,0,0,0
+2026-08-05,Paid Search,mobile,br_search_conta-digital_brand,82,54,4,4,4
+2026-08-05,Paid Search,mobile,br_search_conta-digital_generic,115,87,5,5,2
+2026-08-05,Paid Search,mobile,br_social_conta-digital_jovens,4,1,0,0,0
+2026-08-05,Paid Search,mobile,br_social_investimentos_remarketing,6,4,0,0,0
+2026-08-05,Paid Social,desktop,br_social_conta-digital_jovens,9,4,0,0,0
+2026-08-05,Paid Social,desktop,br_social_conta-digital_prospecting,15,9,0,0,0
+2026-08-05,Paid Social,desktop,br_social_investimentos_remarketing,116,75,2,2,1
+2026-08-05,Paid Social,mobile,br_social_conta-digital_jovens,137,65,1,1,0
+2026-08-05,Paid Social,mobile,br_social_conta-digital_prospecting,140,74,4,4,2
+2026-08-05,Paid Social,mobile,br_social_investimentos_remarketing,348,225,9,9,6
+2026-08-05,Referral,desktop,,27,17,2,2,1
+2026-08-05,Referral,mobile,,42,27,3,3,1
+2026-08-06,Afiliados,desktop,br_affiliate_cashback,17,13,0,0,0
+2026-08-06,Afiliados,mobile,br_affiliate_cashback,88,66,0,0,0
+2026-08-06,CRM / E-mail,desktop,br_crm_investimentos_newsletter,105,84,8,8,6
+2026-08-06,CRM / E-mail,mobile,br_crm_investimentos_newsletter,194,162,16,16,7
+2026-08-06,Direct,desktop,,470,379,23,23,16
+2026-08-06,Direct,mobile,,726,526,39,39,22
+2026-08-06,Influenciadores,desktop,br_influencer_financas-pessoais,4,3,0,0,0
+2026-08-06,Influenciadores,mobile,br_influencer_financas-pessoais,79,52,4,4,1
+2026-08-06,Organic Search,desktop,,116,91,4,4,3
+2026-08-06,Organic Search,mobile,,159,97,8,8,4
+2026-08-06,Paid Search,desktop,(auto-tagging sem utm),5,3,0,0,0
+2026-08-06,Paid Search,desktop,br_search_conta-digital_brand,75,63,5,5,4
+2026-08-06,Paid Search,desktop,br_search_conta-digital_generic,64,50,3,3,3
+2026-08-06,Paid Search,mobile,(auto-tagging sem utm),7,5,0,0,0
+2026-08-06,Paid Search,mobile,br_search_conta-digital_brand,115,88,8,8,5
+2026-08-06,Paid Search,mobile,br_search_conta-digital_generic,115,93,2,2,1
+2026-08-06,Paid Search,mobile,br_social_conta-digital_jovens,4,2,0,0,0
+2026-08-06,Paid Search,mobile,br_social_conta-digital_prospecting,3,2,0,0,0
+2026-08-06,Paid Search,mobile,br_social_investimentos_remarketing,3,1,0,0,0
+2026-08-06,Paid Social,desktop,br_social_conta-digital_jovens,8,1,0,0,0
+2026-08-06,Paid Social,desktop,br_social_conta-digital_prospecting,14,13,2,2,0
+2026-08-06,Paid Social,desktop,br_social_investimentos_remarketing,140,94,4,4,2
+2026-08-06,Paid Social,mobile,br_social_conta-digital_jovens,193,81,5,5,2
+2026-08-06,Paid Social,mobile,br_social_conta-digital_prospecting,120,74,4,4,3
+2026-08-06,Paid Social,mobile,br_social_investimentos_remarketing,404,260,12,12,5
+2026-08-06,Referral,desktop,,22,12,0,0,0
+2026-08-06,Referral,mobile,,35,25,0,0,0
+2026-08-07,Afiliados,desktop,br_affiliate_cashback,24,17,3,3,0
+2026-08-07,Afiliados,mobile,br_affiliate_cashback,82,61,3,3,2
+2026-08-07,CRM / E-mail,desktop,br_crm_investimentos_newsletter,107,86,7,7,5
+2026-08-07,CRM / E-mail,mobile,br_crm_investimentos_newsletter,183,151,19,19,10
+2026-08-07,Direct,desktop,,511,383,27,27,19
+2026-08-07,Direct,mobile,,849,634,43,43,24
+2026-08-07,Influenciadores,desktop,br_influencer_financas-pessoais,12,7,0,0,0
+2026-08-07,Influenciadores,mobile,br_influencer_financas-pessoais,89,53,2,2,1
+2026-08-07,Organic Search,desktop,,115,82,2,2,1
+2026-08-07,Organic Search,mobile,,178,127,7,7,2
+2026-08-07,Paid Search,desktop,(auto-tagging sem utm),3,2,0,0,0
+2026-08-07,Paid Search,desktop,br_search_conta-digital_brand,64,49,1,1,0
+2026-08-07,Paid Search,desktop,br_search_conta-digital_generic,66,50,5,5,4
+2026-08-07,Paid Search,desktop,br_social_investimentos_remarketing,1,0,0,0,0
+2026-08-07,Paid Search,mobile,(auto-tagging sem utm),7,5,0,0,0
+2026-08-07,Paid Search,mobile,br_search_conta-digital_brand,123,86,6,6,1
+2026-08-07,Paid Search,mobile,br_search_conta-digital_generic,120,94,7,7,4
+2026-08-07,Paid Search,mobile,br_social_conta-digital_jovens,2,0,0,0,0
+2026-08-07,Paid Search,mobile,br_social_conta-digital_prospecting,1,1,0,0,0
+2026-08-07,Paid Search,mobile,br_social_investimentos_remarketing,7,5,0,0,0
+2026-08-07,Paid Social,desktop,br_social_conta-digital_jovens,15,7,0,0,0
+2026-08-07,Paid Social,desktop,br_social_conta-digital_prospecting,22,14,0,0,0
+2026-08-07,Paid Social,desktop,br_social_investimentos_remarketing,159,98,7,7,3
+2026-08-07,Paid Social,mobile,br_social_conta-digital_jovens,192,87,1,1,0
+2026-08-07,Paid Social,mobile,br_social_conta-digital_prospecting,114,70,4,4,1
+2026-08-07,Paid Social,mobile,br_social_investimentos_remarketing,459,305,8,8,6
+2026-08-07,Referral,desktop,,13,10,0,0,0
+2026-08-07,Referral,mobile,,39,22,1,1,0
+2026-08-08,Afiliados,desktop,br_affiliate_cashback,28,21,0,0,0
+2026-08-08,Afiliados,mobile,br_affiliate_cashback,91,65,6,6,4
+2026-08-08,CRM / E-mail,desktop,br_crm_investimentos_newsletter,107,82,4,4,2
+2026-08-08,CRM / E-mail,mobile,br_crm_investimentos_newsletter,201,166,12,12,8
+2026-08-08,Direct,desktop,,498,377,18,18,8
+2026-08-08,Direct,mobile,,887,639,49,49,26
+2026-08-08,Influenciadores,desktop,br_influencer_financas-pessoais,10,6,0,0,0
+2026-08-08,Influenciadores,mobile,br_influencer_financas-pessoais,90,56,2,2,1
+2026-08-08,Organic Search,desktop,,131,87,4,4,2
+2026-08-08,Organic Search,mobile,,143,91,5,5,1
+2026-08-08,Paid Search,desktop,(auto-tagging sem utm),4,4,1,1,0
+2026-08-08,Paid Search,desktop,br_search_conta-digital_brand,57,42,0,0,0
+2026-08-08,Paid Search,desktop,br_search_conta-digital_generic,72,56,2,2,1
+2026-08-08,Paid Search,desktop,br_social_investimentos_remarketing,2,2,0,0,0
+2026-08-08,Paid Search,mobile,(auto-tagging sem utm),3,2,0,0,0
+2026-08-08,Paid Search,mobile,br_search_conta-digital_brand,113,86,4,4,2
+2026-08-08,Paid Search,mobile,br_search_conta-digital_generic,121,87,6,6,3
+2026-08-08,Paid Search,mobile,br_social_conta-digital_jovens,4,4,0,0,0
+2026-08-08,Paid Search,mobile,br_social_investimentos_remarketing,8,5,0,0,0
+2026-08-08,Paid Social,desktop,br_social_conta-digital_jovens,21,12,1,1,0
+2026-08-08,Paid Social,desktop,br_social_conta-digital_prospecting,14,10,0,0,0
+2026-08-08,Paid Social,desktop,br_social_investimentos_remarketing,178,116,4,4,1
+2026-08-08,Paid Social,mobile,br_social_conta-digital_jovens,177,93,2,2,0
+2026-08-08,Paid Social,mobile,br_social_conta-digital_prospecting,137,75,5,5,1
+2026-08-08,Paid Social,mobile,br_social_investimentos_remarketing,465,292,14,14,7
+2026-08-08,Referral,desktop,,23,14,0,0,0
+2026-08-08,Referral,mobile,,39,27,1,1,1
+2026-08-09,Afiliados,desktop,br_affiliate_cashback,26,18,1,1,1
+2026-08-09,Afiliados,mobile,br_affiliate_cashback,90,63,4,4,4
+2026-08-09,CRM / E-mail,desktop,br_crm_investimentos_newsletter,106,88,8,8,5
+2026-08-09,CRM / E-mail,mobile,br_crm_investimentos_newsletter,192,153,12,12,5
+2026-08-09,Direct,desktop,,585,456,25,25,20
+2026-08-09,Direct,mobile,,889,668,38,38,16
+2026-08-09,Influenciadores,desktop,br_influencer_financas-pessoais,12,9,0,0,0
+2026-08-09,Influenciadores,mobile,br_influencer_financas-pessoais,72,44,1,1,0
+2026-08-09,Organic Search,desktop,,127,90,6,6,4
+2026-08-09,Organic Search,mobile,,148,103,5,5,2
+2026-08-09,Paid Search,desktop,(auto-tagging sem utm),5,5,1,1,0
+2026-08-09,Paid Search,desktop,br_search_conta-digital_brand,83,63,3,3,1
+2026-08-09,Paid Search,desktop,br_search_conta-digital_generic,65,47,4,4,2
+2026-08-09,Paid Search,desktop,br_social_conta-digital_jovens,1,0,0,0,0
+2026-08-09,Paid Search,mobile,(auto-tagging sem utm),10,7,0,0,0
+2026-08-09,Paid Search,mobile,br_search_conta-digital_brand,128,93,6,6,6
+2026-08-09,Paid Search,mobile,br_search_conta-digital_generic,128,99,6,6,2
+2026-08-09,Paid Search,mobile,br_social_conta-digital_jovens,1,0,0,0,0
+2026-08-09,Paid Search,mobile,br_social_conta-digital_prospecting,1,0,0,0,0
+2026-08-09,Paid Search,mobile,br_social_investimentos_remarketing,5,4,1,1,1
+2026-08-09,Paid Social,desktop,br_social_conta-digital_jovens,18,9,0,0,0
+2026-08-09,Paid Social,desktop,br_social_conta-digital_prospecting,15,8,1,1,1
+2026-08-09,Paid Social,desktop,br_social_investimentos_remarketing,166,109,3,3,3
+2026-08-09,Paid Social,mobile,br_social_conta-digital_jovens,188,90,2,2,1
+2026-08-09,Paid Social,mobile,br_social_conta-digital_prospecting,104,58,4,4,2
+2026-08-09,Paid Social,mobile,br_social_investimentos_remarketing,439,282,16,16,7
+2026-08-09,Referral,desktop,,32,20,0,0,0
+2026-08-09,Referral,mobile,,24,18,1,1,1
+2026-08-10,Afiliados,desktop,br_affiliate_cashback,24,19,0,0,0
+2026-08-10,Afiliados,mobile,br_affiliate_cashback,82,56,2,2,1
+2026-08-10,CRM / E-mail,desktop,br_crm_investimentos_newsletter,104,76,5,5,2
+2026-08-10,CRM / E-mail,mobile,br_crm_investimentos_newsletter,200,166,10,10,7
+2026-08-10,Direct,desktop,,603,449,30,30,17
+2026-08-10,Direct,mobile,,912,703,44,44,24
+2026-08-10,Influenciadores,desktop,br_influencer_financas-pessoais,13,7,0,0,0
+2026-08-10,Influenciadores,mobile,br_influencer_financas-pessoais,95,56,2,2,0
+2026-08-10,Organic Search,desktop,,134,87,5,5,4
+2026-08-10,Organic Search,mobile,,188,122,6,6,4
+2026-08-10,Paid Search,desktop,(auto-tagging sem utm),5,3,0,0,0
+2026-08-10,Paid Search,desktop,br_search_conta-digital_brand,85,61,2,2,1
+2026-08-10,Paid Search,desktop,br_search_conta-digital_generic,76,59,1,1,0
+2026-08-10,Paid Search,desktop,br_social_conta-digital_jovens,1,0,0,0,0
+2026-08-10,Paid Search,desktop,br_social_investimentos_remarketing,5,4,0,0,0
+2026-08-10,Paid Search,mobile,(auto-tagging sem utm),5,4,0,0,0
+2026-08-10,Paid Search,mobile,br_search_conta-digital_brand,138,113,11,11,6
+2026-08-10,Paid Search,mobile,br_search_conta-digital_generic,114,88,3,3,2
+2026-08-10,Paid Search,mobile,br_social_conta-digital_jovens,4,3,0,0,0
+2026-08-10,Paid Search,mobile,br_social_conta-digital_prospecting,1,1,0,0,0
+2026-08-10,Paid Search,mobile,br_social_investimentos_remarketing,3,2,0,0,0
+2026-08-10,Paid Social,desktop,br_social_conta-digital_jovens,8,5,0,0,0
+2026-08-10,Paid Social,desktop,br_social_conta-digital_prospecting,16,12,0,0,0
+2026-08-10,Paid Social,desktop,br_social_investimentos_remarketing,181,135,5,5,2
+2026-08-10,Paid Social,mobile,br_social_conta-digital_jovens,171,80,3,3,0
+2026-08-10,Paid Social,mobile,br_social_conta-digital_prospecting,125,67,4,4,1
+2026-08-10,Paid Social,mobile,br_social_investimentos_remarketing,465,292,12,12,5
+2026-08-10,Referral,desktop,,22,10,0,0,0
+2026-08-10,Referral,mobile,,30,24,0,0,0
+2026-08-11,Afiliados,desktop,br_affiliate_cashback,20,17,4,4,2
+2026-08-11,Afiliados,mobile,br_affiliate_cashback,95,64,1,1,1
+2026-08-11,CRM / E-mail,desktop,br_crm_investimentos_newsletter,125,97,14,14,8
+2026-08-11,CRM / E-mail,mobile,br_crm_investimentos_newsletter,199,171,12,12,8
+2026-08-11,Direct,desktop,,609,455,28,28,19
+2026-08-11,Direct,mobile,,968,742,55,55,26
+2026-08-11,Influenciadores,desktop,br_influencer_financas-pessoais,7,4,1,1,1
+2026-08-11,Influenciadores,mobile,br_influencer_financas-pessoais,82,51,3,3,1
+2026-08-11,Organic Search,desktop,,135,90,6,6,2
+2026-08-11,Organic Search,mobile,,178,114,11,11,8
+2026-08-11,Paid Search,desktop,(auto-tagging sem utm),5,3,1,1,1
+2026-08-11,Paid Search,desktop,br_search_conta-digital_brand,69,53,5,5,5
+2026-08-11,Paid Search,desktop,br_search_conta-digital_generic,82,63,4,4,2
+2026-08-11,Paid Search,desktop,br_social_conta-digital_jovens,1,0,0,0,0
+2026-08-11,Paid Search,desktop,br_social_conta-digital_prospecting,1,1,0,0,0
+2026-08-11,Paid Search,desktop,br_social_investimentos_remarketing,2,2,0,0,0
+2026-08-11,Paid Search,mobile,(auto-tagging sem utm),14,9,0,0,0
+2026-08-11,Paid Search,mobile,br_search_conta-digital_brand,130,102,8,8,2
+2026-08-11,Paid Search,mobile,br_search_conta-digital_generic,127,100,5,5,4
+2026-08-11,Paid Search,mobile,br_social_conta-digital_jovens,4,2,0,0,0
+2026-08-11,Paid Search,mobile,br_social_conta-digital_prospecting,1,1,0,0,0
+2026-08-11,Paid Search,mobile,br_social_investimentos_remarketing,5,3,0,0,0
+2026-08-11,Paid Social,desktop,br_social_conta-digital_jovens,10,5,0,0,0
+2026-08-11,Paid Social,desktop,br_social_conta-digital_prospecting,16,10,0,0,0
+2026-08-11,Paid Social,desktop,br_social_investimentos_remarketing,206,132,4,4,2
+2026-08-11,Paid Social,mobile,br_social_conta-digital_jovens,158,68,1,1,0
+2026-08-11,Paid Social,mobile,br_social_conta-digital_prospecting,145,73,2,2,0
+2026-08-11,Paid Social,mobile,br_social_investimentos_remarketing,491,286,8,8,5
+2026-08-11,Referral,desktop,,26,19,0,0,0
+2026-08-11,Referral,mobile,,36,26,2,2,0
+2026-08-12,Afiliados,desktop,br_affiliate_cashback,33,20,1,1,1
+2026-08-12,Afiliados,mobile,br_affiliate_cashback,100,70,5,5,3
+2026-08-12,CRM / E-mail,desktop,br_crm_investimentos_newsletter,115,95,7,7,5
+2026-08-12,CRM / E-mail,mobile,br_crm_investimentos_newsletter,248,209,19,19,8
+2026-08-12,Direct,desktop,,585,437,23,23,16
+2026-08-12,Direct,mobile,,1009,765,46,46,22
+2026-08-12,Influenciadores,desktop,br_influencer_financas-pessoais,14,11,0,0,0
+2026-08-12,Influenciadores,mobile,br_influencer_financas-pessoais,87,55,1,1,0
+2026-08-12,Organic Search,desktop,,116,80,3,3,2
+2026-08-12,Organic Search,mobile,,152,105,4,4,1
+2026-08-12,Paid Search,desktop,(auto-tagging sem utm),5,5,1,1,1
+2026-08-12,Paid Search,desktop,br_search_conta-digital_brand,77,62,8,8,5
+2026-08-12,Paid Search,desktop,br_search_conta-digital_generic,76,54,4,4,3
+2026-08-12,Paid Search,desktop,br_social_investimentos_remarketing,3,3,0,0,0
+2026-08-12,Paid Search,mobile,(auto-tagging sem utm),5,5,1,1,0
+2026-08-12,Paid Search,mobile,br_search_conta-digital_brand,102,77,4,4,3
+2026-08-12,Paid Search,mobile,br_search_conta-digital_generic,123,97,2,2,1
+2026-08-12,Paid Search,mobile,br_social_conta-digital_jovens,1,0,0,0,0
+2026-08-12,Paid Search,mobile,br_social_conta-digital_prospecting,2,0,0,0,0
+2026-08-12,Paid Search,mobile,br_social_investimentos_remarketing,7,4,0,0,0
+2026-08-12,Paid Social,desktop,br_social_conta-digital_jovens,15,6,0,0,0
+2026-08-12,Paid Social,desktop,br_social_conta-digital_prospecting,13,2,0,0,0
+2026-08-12,Paid Social,desktop,br_social_investimentos_remarketing,181,110,2,2,2
+2026-08-12,Paid Social,mobile,br_social_conta-digital_jovens,149,75,0,0,0
+2026-08-12,Paid Social,mobile,br_social_conta-digital_prospecting,147,91,5,5,4
+2026-08-12,Paid Social,mobile,br_social_investimentos_remarketing,486,326,17,17,9
+2026-08-12,Referral,desktop,,25,17,0,0,0
+2026-08-12,Referral,mobile,,37,24,4,4,2
+2026-08-13,Afiliados,desktop,br_affiliate_cashback,30,21,0,0,0
+2026-08-13,Afiliados,mobile,br_affiliate_cashback,93,62,5,5,0
+2026-08-13,CRM / E-mail,desktop,br_crm_investimentos_newsletter,147,119,5,5,4
+2026-08-13,CRM / E-mail,mobile,br_crm_investimentos_newsletter,235,193,11,11,5
+2026-08-13,Direct,desktop,,565,410,23,23,15
+2026-08-13,Direct,mobile,,978,742,51,51,30
+2026-08-13,Influenciadores,desktop,br_influencer_financas-pessoais,9,4,0,0,0
+2026-08-13,Influenciadores,mobile,br_influencer_financas-pessoais,93,56,1,1,1
+2026-08-13,Organic Search,desktop,,136,96,3,3,2
+2026-08-13,Organic Search,mobile,,149,94,4,4,1
+2026-08-13,Paid Search,desktop,(auto-tagging sem utm),3,3,0,0,0
+2026-08-13,Paid Search,desktop,br_search_conta-digital_brand,58,42,2,2,2
+2026-08-13,Paid Search,desktop,br_search_conta-digital_generic,64,53,2,2,1
+2026-08-13,Paid Search,mobile,(auto-tagging sem utm),7,3,0,0,0
+2026-08-13,Paid Search,mobile,br_search_conta-digital_brand,107,76,4,4,2
+2026-08-13,Paid Search,mobile,br_search_conta-digital_generic,126,103,4,4,0
+2026-08-13,Paid Search,mobile,br_social_conta-digital_jovens,2,0,0,0,0
+2026-08-13,Paid Search,mobile,br_social_conta-digital_prospecting,3,2,0,0,0
+2026-08-13,Paid Search,mobile,br_social_investimentos_remarketing,6,3,0,0,0
+2026-08-13,Paid Social,desktop,br_social_conta-digital_jovens,11,8,0,0,0
+2026-08-13,Paid Social,desktop,br_social_conta-digital_prospecting,18,7,0,0,0
+2026-08-13,Paid Social,desktop,br_social_investimentos_remarketing,186,119,3,3,0
+2026-08-13,Paid Social,mobile,br_social_conta-digital_jovens,182,85,2,2,1
+2026-08-13,Paid Social,mobile,br_social_conta-digital_prospecting,142,76,7,7,1
+2026-08-13,Paid Social,mobile,br_social_investimentos_remarketing,483,296,19,19,10
+2026-08-13,Referral,desktop,,19,8,1,1,1
+2026-08-13,Referral,mobile,,31,20,0,0,0
+2026-08-14,Afiliados,desktop,br_affiliate_cashback,21,12,0,0,0
+2026-08-14,Afiliados,mobile,br_affiliate_cashback,82,54,4,4,1
+2026-08-14,CRM / E-mail,desktop,br_crm_investimentos_newsletter,132,114,12,12,10
+2026-08-14,CRM / E-mail,mobile,br_crm_investimentos_newsletter,231,189,19,19,11
+2026-08-14,Direct,desktop,,630,488,28,28,16
+2026-08-14,Direct,mobile,,980,741,50,50,26
+2026-08-14,Influenciadores,desktop,br_influencer_financas-pessoais,14,8,0,0,0
+2026-08-14,Influenciadores,mobile,br_influencer_financas-pessoais,86,61,1,1,0
+2026-08-14,Organic Search,desktop,,109,70,7,7,1
+2026-08-14,Organic Search,mobile,,160,105,7,7,3
+2026-08-14,Paid Search,desktop,(auto-tagging sem utm),3,2,0,0,0
+2026-08-14,Paid Search,desktop,br_search_conta-digital_brand,78,61,5,5,4
+2026-08-14,Paid Search,desktop,br_search_conta-digital_generic,89,64,4,4,0
+2026-08-14,Paid Search,desktop,br_social_investimentos_remarketing,2,1,0,0,0
+2026-08-14,Paid Search,mobile,(auto-tagging sem utm),7,3,0,0,0
+2026-08-14,Paid Search,mobile,br_search_conta-digital_brand,126,96,6,6,2
+2026-08-14,Paid Search,mobile,br_search_conta-digital_generic,128,105,7,7,7
+2026-08-14,Paid Search,mobile,br_social_conta-digital_prospecting,1,0,0,0,0
+2026-08-14,Paid Search,mobile,br_social_investimentos_remarketing,7,4,0,0,0
+2026-08-14,Paid Social,desktop,br_social_conta-digital_jovens,9,3,0,0,0
+2026-08-14,Paid Social,desktop,br_social_conta-digital_prospecting,12,7,0,0,0
+2026-08-14,Paid Social,desktop,br_social_investimentos_remarketing,183,114,4,4,2
+2026-08-14,Paid Social,mobile,br_social_conta-digital_jovens,170,86,2,2,2
+2026-08-14,Paid Social,mobile,br_social_conta-digital_prospecting,132,75,4,4,0
+2026-08-14,Paid Social,mobile,br_social_investimentos_remarketing,496,313,10,10,5
+2026-08-14,Referral,desktop,,18,11,1,1,0
+2026-08-14,Referral,mobile,,27,17,0,0,0
+2026-08-15,Afiliados,desktop,br_affiliate_cashback,16,13,0,0,0
+2026-08-15,Afiliados,mobile,br_affiliate_cashback,98,66,2,2,1
+2026-08-15,CRM / E-mail,desktop,br_crm_investimentos_newsletter,133,108,9,9,6
+2026-08-15,CRM / E-mail,mobile,br_crm_investimentos_newsletter,237,200,14,14,4
+2026-08-15,Direct,desktop,,605,447,31,31,20
+2026-08-15,Direct,mobile,,1009,764,50,50,29
+2026-08-15,Influenciadores,desktop,br_influencer_financas-pessoais,16,12,0,0,0
+2026-08-15,Influenciadores,mobile,br_influencer_financas-pessoais,79,53,1,1,1
+2026-08-15,Organic Search,desktop,,120,95,4,4,2
+2026-08-15,Organic Search,mobile,,155,103,9,9,5
+2026-08-15,Paid Search,desktop,(auto-tagging sem utm),4,4,0,0,0
+2026-08-15,Paid Search,desktop,br_search_conta-digital_brand,53,39,3,3,3
+2026-08-15,Paid Search,desktop,br_search_conta-digital_generic,83,71,6,6,4
+2026-08-15,Paid Search,desktop,br_social_investimentos_remarketing,3,3,0,0,0
+2026-08-15,Paid Search,mobile,(auto-tagging sem utm),7,5,1,1,0
+2026-08-15,Paid Search,mobile,br_search_conta-digital_brand,138,101,4,4,2
+2026-08-15,Paid Search,mobile,br_search_conta-digital_generic,117,92,4,4,1
+2026-08-15,Paid Search,mobile,br_social_conta-digital_jovens,2,2,0,0,0
+2026-08-15,Paid Search,mobile,br_social_conta-digital_prospecting,4,3,0,0,0
+2026-08-15,Paid Search,mobile,br_social_investimentos_remarketing,7,4,0,0,0
+2026-08-15,Paid Social,desktop,br_social_conta-digital_jovens,16,7,0,0,0
+2026-08-15,Paid Social,desktop,br_social_conta-digital_prospecting,23,15,0,0,0
+2026-08-15,Paid Social,desktop,br_social_investimentos_remarketing,204,136,11,11,6
+2026-08-15,Paid Social,mobile,br_social_conta-digital_jovens,171,89,3,3,1
+2026-08-15,Paid Social,mobile,br_social_conta-digital_prospecting,131,70,2,2,0
+2026-08-15,Paid Social,mobile,br_social_investimentos_remarketing,473,291,6,6,2
+2026-08-15,Referral,desktop,,25,13,0,0,0
+2026-08-15,Referral,mobile,,30,14,0,0,0
+2026-08-16,Afiliados,desktop,br_affiliate_cashback,25,18,1,1,1
+2026-08-16,Afiliados,mobile,br_affiliate_cashback,103,74,4,4,2
+2026-08-16,CRM / E-mail,desktop,br_crm_investimentos_newsletter,127,103,8,8,2
+2026-08-16,CRM / E-mail,mobile,br_crm_investimentos_newsletter,245,199,14,14,11
+2026-08-16,Direct,desktop,,631,479,35,35,18
+2026-08-16,Direct,mobile,,1010,763,55,55,30
+2026-08-16,Influenciadores,desktop,br_influencer_financas-pessoais,8,4,0,0,0
+2026-08-16,Influenciadores,mobile,br_influencer_financas-pessoais,69,45,2,2,1
+2026-08-16,Organic Search,desktop,,101,57,0,0,0
+2026-08-16,Organic Search,mobile,,146,104,10,10,4
+2026-08-16,Paid Search,desktop,(auto-tagging sem utm),7,5,0,0,0
+2026-08-16,Paid Search,desktop,br_search_conta-digital_brand,88,70,3,3,2
+2026-08-16,Paid Search,desktop,br_search_conta-digital_generic,66,47,0,0,0
+2026-08-16,Paid Search,desktop,br_social_conta-digital_jovens,2,1,0,0,0
+2026-08-16,Paid Search,desktop,br_social_investimentos_remarketing,7,3,0,0,0
+2026-08-16,Paid Search,mobile,(auto-tagging sem utm),3,3,0,0,0
+2026-08-16,Paid Search,mobile,br_search_conta-digital_brand,132,100,5,5,4
+2026-08-16,Paid Search,mobile,br_search_conta-digital_generic,117,99,3,3,2
+2026-08-16,Paid Search,mobile,br_social_conta-digital_jovens,3,1,0,0,0
+2026-08-16,Paid Search,mobile,br_social_conta-digital_prospecting,2,1,0,0,0
+2026-08-16,Paid Search,mobile,br_social_investimentos_remarketing,6,3,0,0,0
+2026-08-16,Paid Social,desktop,br_social_conta-digital_jovens,15,5,0,0,0
+2026-08-16,Paid Social,desktop,br_social_conta-digital_prospecting,14,8,0,0,0
+2026-08-16,Paid Social,desktop,br_social_investimentos_remarketing,192,131,7,7,7
+2026-08-16,Paid Social,mobile,br_social_conta-digital_jovens,136,74,4,4,0
+2026-08-16,Paid Social,mobile,br_social_conta-digital_prospecting,125,64,2,2,0
+2026-08-16,Paid Social,mobile,br_social_investimentos_remarketing,492,327,19,19,7
+2026-08-16,Referral,desktop,,24,14,1,1,1
+2026-08-16,Referral,mobile,,45,27,2,2,1
+2026-08-17,Afiliados,desktop,br_affiliate_cashback,28,20,1,1,1
+2026-08-17,Afiliados,mobile,br_affiliate_cashback,110,77,2,2,0
+2026-08-17,CRM / E-mail,desktop,br_crm_investimentos_newsletter,119,100,3,3,2
+2026-08-17,CRM / E-mail,mobile,br_crm_investimentos_newsletter,220,184,8,8,4
+2026-08-17,Direct,desktop,,586,445,39,39,29
+2026-08-17,Direct,mobile,,940,706,51,51,22
+2026-08-17,Influenciadores,desktop,br_influencer_financas-pessoais,12,9,2,2,1
+2026-08-17,Influenciadores,mobile,br_influencer_financas-pessoais,95,60,2,2,0
+2026-08-17,Organic Search,desktop,,113,73,4,4,1
+2026-08-17,Organic Search,mobile,,172,115,6,6,2
+2026-08-17,Paid Search,desktop,(auto-tagging sem utm),7,6,0,0,0
+2026-08-17,Paid Search,desktop,br_search_conta-digital_brand,61,46,2,2,1
+2026-08-17,Paid Search,desktop,br_search_conta-digital_generic,95,73,4,4,2
+2026-08-17,Paid Search,desktop,br_social_conta-digital_prospecting,1,1,1,1,1
+2026-08-17,Paid Search,desktop,br_social_investimentos_remarketing,3,2,0,0,0
+2026-08-17,Paid Search,mobile,(auto-tagging sem utm),5,4,0,0,0
+2026-08-17,Paid Search,mobile,br_search_conta-digital_brand,133,101,5,5,4
+2026-08-17,Paid Search,mobile,br_search_conta-digital_generic,103,78,3,3,0
+2026-08-17,Paid Search,mobile,br_social_conta-digital_jovens,6,5,0,0,0
+2026-08-17,Paid Search,mobile,br_social_conta-digital_prospecting,1,1,0,0,0
+2026-08-17,Paid Search,mobile,br_social_investimentos_remarketing,8,4,0,0,0
+2026-08-17,Paid Social,desktop,br_social_conta-digital_jovens,19,8,1,1,0
+2026-08-17,Paid Social,desktop,br_social_conta-digital_prospecting,17,9,1,1,1
+2026-08-17,Paid Social,desktop,br_social_investimentos_remarketing,179,112,7,7,3
+2026-08-17,Paid Social,mobile,br_social_conta-digital_jovens,160,85,2,2,1
+2026-08-17,Paid Social,mobile,br_social_conta-digital_prospecting,136,76,5,5,3
+2026-08-17,Paid Social,mobile,br_social_investimentos_remarketing,523,339,12,12,7
+2026-08-17,Referral,desktop,,22,13,0,0,0
+2026-08-17,Referral,mobile,,34,25,0,0,0
+2026-08-18,Afiliados,desktop,br_affiliate_cashback,26,15,0,0,0
+2026-08-18,Afiliados,mobile,br_affiliate_cashback,94,66,3,3,2
+2026-08-18,CRM / E-mail,desktop,br_crm_investimentos_newsletter,127,103,9,9,7
+2026-08-18,CRM / E-mail,mobile,br_crm_investimentos_newsletter,226,180,11,11,8
+2026-08-18,Direct,desktop,,586,435,25,25,18
+2026-08-18,Direct,mobile,,1014,779,54,54,27
+2026-08-18,Influenciadores,desktop,br_influencer_financas-pessoais,18,11,1,1,0
+2026-08-18,Influenciadores,mobile,br_influencer_financas-pessoais,98,59,2,2,2
+2026-08-18,Organic Search,desktop,,98,64,4,4,4
+2026-08-18,Organic Search,mobile,,178,131,4,4,2
+2026-08-18,Paid Search,desktop,(auto-tagging sem utm),1,1,0,0,0
+2026-08-18,Paid Search,desktop,br_search_conta-digital_brand,72,52,6,6,4
+2026-08-18,Paid Search,desktop,br_search_conta-digital_generic,69,52,6,6,3
+2026-08-18,Paid Search,desktop,br_social_conta-digital_jovens,1,0,0,0,0
+2026-08-18,Paid Search,desktop,br_social_investimentos_remarketing,4,3,0,0,0
+2026-08-18,Paid Search,mobile,(auto-tagging sem utm),10,5,1,1,0
+2026-08-18,Paid Search,mobile,br_search_conta-digital_brand,113,88,5,5,3
+2026-08-18,Paid Search,mobile,br_search_conta-digital_generic,121,98,4,4,2
+2026-08-18,Paid Search,mobile,br_social_conta-digital_jovens,3,2,0,0,0
+2026-08-18,Paid Search,mobile,br_social_conta-digital_prospecting,1,0,0,0,0
+2026-08-18,Paid Search,mobile,br_social_investimentos_remarketing,9,5,2,2,2
+2026-08-18,Paid Social,desktop,br_social_conta-digital_jovens,19,9,0,0,0
+2026-08-18,Paid Social,desktop,br_social_conta-digital_prospecting,18,8,1,1,1
+2026-08-18,Paid Social,desktop,br_social_investimentos_remarketing,242,159,8,8,3
+2026-08-18,Paid Social,mobile,br_social_conta-digital_jovens,163,72,1,1,0
+2026-08-18,Paid Social,mobile,br_social_conta-digital_prospecting,147,96,5,5,1
+2026-08-18,Paid Social,mobile,br_social_investimentos_remarketing,516,320,7,7,3
+2026-08-18,Referral,desktop,,28,19,0,0,0
+2026-08-18,Referral,mobile,,26,20,2,2,0
+2026-08-19,Afiliados,desktop,br_affiliate_cashback,25,16,2,2,0
+2026-08-19,Afiliados,mobile,br_affiliate_cashback,91,62,2,2,2
+2026-08-19,CRM / E-mail,desktop,br_crm_investimentos_newsletter,139,108,5,5,3
+2026-08-19,CRM / E-mail,mobile,br_crm_investimentos_newsletter,216,180,13,13,10
+2026-08-19,Direct,desktop,,612,471,27,27,17
+2026-08-19,Direct,mobile,,1066,829,62,62,36
+2026-08-19,Influenciadores,desktop,br_influencer_financas-pessoais,6,4,0,0,0
+2026-08-19,Influenciadores,mobile,br_influencer_financas-pessoais,97,57,4,4,1
+2026-08-19,Organic Search,desktop,,118,84,5,5,0
+2026-08-19,Organic Search,mobile,,174,113,9,9,4
+2026-08-19,Paid Search,desktop,(auto-tagging sem utm),3,3,0,0,0
+2026-08-19,Paid Search,desktop,br_search_conta-digital_brand,77,55,4,4,3
+2026-08-19,Paid Search,desktop,br_search_conta-digital_generic,81,64,4,4,3
+2026-08-19,Paid Search,desktop,br_social_investimentos_remarketing,2,2,0,0,0
+2026-08-19,Paid Search,mobile,(auto-tagging sem utm),9,8,1,1,0
+2026-08-19,Paid Search,mobile,br_search_conta-digital_brand,115,86,5,5,4
+2026-08-19,Paid Search,mobile,br_search_conta-digital_generic,117,81,5,5,1
+2026-08-19,Paid Search,mobile,br_social_conta-digital_jovens,3,1,0,0,0
+2026-08-19,Paid Search,mobile,br_social_conta-digital_prospecting,3,1,0,0,0
+2026-08-19,Paid Search,mobile,br_social_investimentos_remarketing,4,3,1,1,0
+2026-08-19,Paid Social,desktop,br_social_conta-digital_jovens,14,6,0,0,0
+2026-08-19,Paid Social,desktop,br_social_conta-digital_prospecting,19,8,1,1,0
+2026-08-19,Paid Social,desktop,br_social_investimentos_remarketing,168,114,7,7,5
+2026-08-19,Paid Social,mobile,br_social_conta-digital_jovens,175,89,3,3,2
+2026-08-19,Paid Social,mobile,br_social_conta-digital_prospecting,147,89,3,3,2
+2026-08-19,Paid Social,mobile,br_social_investimentos_remarketing,518,325,15,15,5
+2026-08-19,Referral,desktop,,21,9,2,2,1
+2026-08-19,Referral,mobile,,29,21,2,2,2
+2026-08-20,Afiliados,desktop,br_affiliate_cashback,27,17,0,0,0
+2026-08-20,Afiliados,mobile,br_affiliate_cashback,101,78,4,4,1
+2026-08-20,CRM / E-mail,desktop,br_crm_investimentos_newsletter,145,113,4,4,3
+2026-08-20,CRM / E-mail,mobile,br_crm_investimentos_newsletter,223,178,18,18,8
+2026-08-20,Direct,desktop,,662,510,40,40,24
+2026-08-20,Direct,mobile,,1068,807,53,53,21
+2026-08-20,Influenciadores,desktop,br_influencer_financas-pessoais,10,7,0,0,0
+2026-08-20,Influenciadores,mobile,br_influencer_financas-pessoais,89,59,1,1,1
+2026-08-20,Organic Search,desktop,,110,79,8,8,3
+2026-08-20,Organic Search,mobile,,159,112,6,6,4
+2026-08-20,Paid Search,desktop,(auto-tagging sem utm),5,4,0,0,0
+2026-08-20,Paid Search,desktop,br_search_conta-digital_brand,76,55,3,3,2
+2026-08-20,Paid Search,desktop,br_search_conta-digital_generic,80,60,2,2,1
+2026-08-20,Paid Search,desktop,br_social_investimentos_remarketing,3,2,1,1,0
+2026-08-20,Paid Search,mobile,(auto-tagging sem utm),7,4,0,0,0
+2026-08-20,Paid Search,mobile,br_search_conta-digital_brand,146,120,6,6,4
+2026-08-20,Paid Search,mobile,br_search_conta-digital_generic,116,82,7,7,4
+2026-08-20,Paid Search,mobile,br_social_conta-digital_prospecting,4,3,0,0,0
+2026-08-20,Paid Search,mobile,br_social_investimentos_remarketing,9,7,0,0,0
+2026-08-20,Paid Social,desktop,br_social_conta-digital_jovens,17,7,0,0,0
+2026-08-20,Paid Social,desktop,br_social_conta-digital_prospecting,17,6,0,0,0
+2026-08-20,Paid Social,desktop,br_social_investimentos_remarketing,213,137,8,8,2
+2026-08-20,Paid Social,mobile,br_social_conta-digital_jovens,161,82,0,0,0
+2026-08-20,Paid Social,mobile,br_social_conta-digital_prospecting,148,87,4,4,2
+2026-08-20,Paid Social,mobile,br_social_investimentos_remarketing,529,326,18,18,8
+2026-08-20,Referral,desktop,,23,15,0,0,0
+2026-08-20,Referral,mobile,,43,31,0,0,0
+2026-08-21,Afiliados,desktop,br_affiliate_cashback,27,11,2,2,0
+2026-08-21,Afiliados,mobile,br_affiliate_cashback,92,66,5,5,3
+2026-08-21,CRM / E-mail,desktop,br_crm_investimentos_newsletter,126,92,6,6,6
+2026-08-21,CRM / E-mail,mobile,br_crm_investimentos_newsletter,213,167,14,14,7
+2026-08-21,Direct,desktop,,595,441,37,37,21
+2026-08-21,Direct,mobile,,1037,803,65,65,31
+2026-08-21,Influenciadores,desktop,br_influencer_financas-pessoais,16,8,1,1,1
+2026-08-21,Influenciadores,mobile,br_influencer_financas-pessoais,77,46,2,2,1
+2026-08-21,Organic Search,desktop,,113,75,5,5,2
+2026-08-21,Organic Search,mobile,,181,123,3,3,1
+2026-08-21,Paid Search,desktop,(auto-tagging sem utm),5,5,0,0,0
+2026-08-21,Paid Search,desktop,br_search_conta-digital_brand,75,57,8,8,6
+2026-08-21,Paid Search,desktop,br_search_conta-digital_generic,75,62,6,6,5
+2026-08-21,Paid Search,desktop,br_social_investimentos_remarketing,3,2,0,0,0
+2026-08-21,Paid Search,mobile,(auto-tagging sem utm),4,2,0,0,0
+2026-08-21,Paid Search,mobile,br_search_conta-digital_brand,120,90,5,5,4
+2026-08-21,Paid Search,mobile,br_search_conta-digital_generic,127,104,5,5,3
+2026-08-21,Paid Search,mobile,br_social_conta-digital_prospecting,4,3,0,0,0
+2026-08-21,Paid Search,mobile,br_social_investimentos_remarketing,12,7,0,0,0
+2026-08-21,Paid Social,desktop,br_social_conta-digital_jovens,17,9,0,0,0
+2026-08-21,Paid Social,desktop,br_social_conta-digital_prospecting,29,12,0,0,0
+2026-08-21,Paid Social,desktop,br_social_investimentos_remarketing,210,137,6,6,5
+2026-08-21,Paid Social,mobile,br_social_conta-digital_jovens,168,86,1,1,0
+2026-08-21,Paid Social,mobile,br_social_conta-digital_prospecting,129,77,7,7,1
+2026-08-21,Paid Social,mobile,br_social_investimentos_remarketing,517,315,17,17,6
+2026-08-21,Referral,desktop,,40,21,3,3,1
+2026-08-21,Referral,mobile,,39,25,1,1,0
+2026-08-22,Afiliados,desktop,br_affiliate_cashback,28,19,1,1,1
+2026-08-22,Afiliados,mobile,br_affiliate_cashback,99,71,3,3,0
+2026-08-22,CRM / E-mail,desktop,br_crm_investimentos_newsletter,158,129,15,15,10
+2026-08-22,CRM / E-mail,mobile,br_crm_investimentos_newsletter,223,171,11,11,6
+2026-08-22,Direct,desktop,,602,439,31,31,22
+2026-08-22,Direct,mobile,,1013,762,57,57,29
+2026-08-22,Influenciadores,desktop,br_influencer_financas-pessoais,10,5,0,0,0
+2026-08-22,Influenciadores,mobile,br_influencer_financas-pessoais,91,61,3,3,0
+2026-08-22,Organic Search,desktop,,111,78,5,5,4
+2026-08-22,Organic Search,mobile,,170,120,5,5,3
+2026-08-22,Paid Search,desktop,(auto-tagging sem utm),5,5,1,1,1
+2026-08-22,Paid Search,desktop,br_search_conta-digital_brand,81,53,3,3,2
+2026-08-22,Paid Search,desktop,br_search_conta-digital_generic,76,59,3,3,2
+2026-08-22,Paid Search,desktop,br_social_investimentos_remarketing,5,2,0,0,0
+2026-08-22,Paid Search,mobile,(auto-tagging sem utm),6,3,0,0,0
+2026-08-22,Paid Search,mobile,br_search_conta-digital_brand,107,79,7,7,4
+2026-08-22,Paid Search,mobile,br_search_conta-digital_generic,120,92,5,5,3
+2026-08-22,Paid Search,mobile,br_social_conta-digital_jovens,2,0,0,0,0
+2026-08-22,Paid Search,mobile,br_social_investimentos_remarketing,5,5,0,0,0
+2026-08-22,Paid Social,desktop,br_social_conta-digital_jovens,14,8,0,0,0
+2026-08-22,Paid Social,desktop,br_social_conta-digital_prospecting,21,14,3,3,1
+2026-08-22,Paid Social,desktop,br_social_investimentos_remarketing,208,130,8,8,4
+2026-08-22,Paid Social,mobile,br_social_conta-digital_jovens,167,87,1,1,1
+2026-08-22,Paid Social,mobile,br_social_conta-digital_prospecting,121,72,3,3,2
+2026-08-22,Paid Social,mobile,br_social_investimentos_remarketing,495,303,16,16,8
+2026-08-22,Referral,desktop,,26,18,0,0,0
+2026-08-22,Referral,mobile,,34,22,0,0,0
+2026-08-23,Afiliados,desktop,br_affiliate_cashback,29,21,0,0,0
+2026-08-23,Afiliados,mobile,br_affiliate_cashback,98,77,3,3,1
+2026-08-23,CRM / E-mail,desktop,br_crm_investimentos_newsletter,138,115,12,12,7
+2026-08-23,CRM / E-mail,mobile,br_crm_investimentos_newsletter,243,203,14,14,7
+2026-08-23,Direct,desktop,,591,474,26,26,18
+2026-08-23,Direct,mobile,,1120,866,64,64,29
+2026-08-23,Influenciadores,desktop,br_influencer_financas-pessoais,14,10,0,0,0
+2026-08-23,Influenciadores,mobile,br_influencer_financas-pessoais,100,58,4,4,4
+2026-08-23,Organic Search,desktop,,106,80,3,3,2
+2026-08-23,Organic Search,mobile,,190,139,14,14,8
+2026-08-23,Paid Search,desktop,(auto-tagging sem utm),4,4,0,0,0
+2026-08-23,Paid Search,desktop,br_search_conta-digital_brand,100,87,4,4,4
+2026-08-23,Paid Search,desktop,br_search_conta-digital_generic,83,61,4,4,2
+2026-08-23,Paid Search,desktop,br_social_investimentos_remarketing,2,1,0,0,0
+2026-08-23,Paid Search,mobile,(auto-tagging sem utm),4,3,0,0,0
+2026-08-23,Paid Search,mobile,br_search_conta-digital_brand,126,95,6,6,3
+2026-08-23,Paid Search,mobile,br_search_conta-digital_generic,113,86,6,6,2
+2026-08-23,Paid Search,mobile,br_social_conta-digital_jovens,1,0,0,0,0
+2026-08-23,Paid Search,mobile,br_social_investimentos_remarketing,2,2,0,0,0
+2026-08-23,Paid Social,desktop,br_social_conta-digital_jovens,22,10,0,0,0
+2026-08-23,Paid Social,desktop,br_social_conta-digital_prospecting,15,8,0,0,0
+2026-08-23,Paid Social,desktop,br_social_investimentos_remarketing,185,116,6,6,2
+2026-08-23,Paid Social,mobile,br_social_conta-digital_jovens,168,88,0,0,0
+2026-08-23,Paid Social,mobile,br_social_conta-digital_prospecting,112,73,3,3,1
+2026-08-23,Paid Social,mobile,br_social_investimentos_remarketing,532,340,18,18,10
+2026-08-23,Referral,desktop,,25,18,1,1,0
+2026-08-23,Referral,mobile,,35,19,1,1,1
+2026-08-24,Afiliados,desktop,br_affiliate_cashback,30,21,1,1,0
+2026-08-24,Afiliados,mobile,br_affiliate_cashback,101,64,3,3,1
+2026-08-24,CRM / E-mail,desktop,br_crm_investimentos_newsletter,116,99,6,6,5
+2026-08-24,CRM / E-mail,mobile,br_crm_investimentos_newsletter,239,196,10,10,7
+2026-08-24,Direct,desktop,,642,463,27,27,13
+2026-08-24,Direct,mobile,,1037,755,51,51,27
+2026-08-24,Influenciadores,desktop,br_influencer_financas-pessoais,18,12,0,0,0
+2026-08-24,Influenciadores,mobile,br_influencer_financas-pessoais,88,65,3,3,1
+2026-08-24,Organic Search,desktop,,100,75,2,2,0
+2026-08-24,Organic Search,mobile,,184,123,4,4,0
+2026-08-24,Paid Search,desktop,(auto-tagging sem utm),6,5,0,0,0
+2026-08-24,Paid Search,desktop,br_search_conta-digital_brand,84,67,3,3,0
+2026-08-24,Paid Search,desktop,br_search_conta-digital_generic,60,43,3,3,2
+2026-08-24,Paid Search,desktop,br_social_investimentos_remarketing,2,0,0,0,0
+2026-08-24,Paid Search,mobile,(auto-tagging sem utm),7,5,1,1,1
+2026-08-24,Paid Search,mobile,br_search_conta-digital_brand,111,85,6,6,1
+2026-08-24,Paid Search,mobile,br_search_conta-digital_generic,121,89,6,6,2
+2026-08-24,Paid Search,mobile,br_social_conta-digital_jovens,1,1,0,0,0
+2026-08-24,Paid Search,mobile,br_social_conta-digital_prospecting,3,1,1,1,1
+2026-08-24,Paid Search,mobile,br_social_investimentos_remarketing,9,6,0,0,0
+2026-08-24,Paid Social,desktop,br_social_conta-digital_jovens,12,5,1,1,1
+2026-08-24,Paid Social,desktop,br_social_conta-digital_prospecting,20,12,0,0,0
+2026-08-24,Paid Social,desktop,br_social_investimentos_remarketing,197,121,7,7,4
+2026-08-24,Paid Social,mobile,br_social_conta-digital_jovens,156,60,1,1,0
+2026-08-24,Paid Social,mobile,br_social_conta-digital_prospecting,136,90,6,6,2
+2026-08-24,Paid Social,mobile,br_social_investimentos_remarketing,506,320,11,11,2
+2026-08-24,Referral,desktop,,28,14,0,0,0
+2026-08-24,Referral,mobile,,32,17,1,1,1
+2026-08-25,Afiliados,desktop,br_affiliate_cashback,32,21,2,2,2
+2026-08-25,Afiliados,mobile,br_affiliate_cashback,94,67,3,3,1
+2026-08-25,CRM / E-mail,desktop,br_crm_investimentos_newsletter,140,105,8,8,5
+2026-08-25,CRM / E-mail,mobile,br_crm_investimentos_newsletter,226,188,18,18,8
+2026-08-25,Direct,desktop,,600,457,34,34,19
+2026-08-25,Direct,mobile,,1042,787,69,69,37
+2026-08-25,Influenciadores,desktop,br_influencer_financas-pessoais,13,7,2,2,2
+2026-08-25,Influenciadores,mobile,br_influencer_financas-pessoais,97,58,2,2,1
+2026-08-25,Organic Search,desktop,,128,87,3,3,1
+2026-08-25,Organic Search,mobile,,161,111,2,2,0
+2026-08-25,Paid Search,desktop,(auto-tagging sem utm),1,1,0,0,0
+2026-08-25,Paid Search,desktop,br_search_conta-digital_brand,80,62,3,3,1
+2026-08-25,Paid Search,desktop,br_search_conta-digital_generic,68,50,4,4,3
+2026-08-25,Paid Search,desktop,br_social_conta-digital_prospecting,1,1,0,0,0
+2026-08-25,Paid Search,desktop,br_social_investimentos_remarketing,5,3,0,0,0
+2026-08-25,Paid Search,mobile,(auto-tagging sem utm),4,3,1,1,1
+2026-08-25,Paid Search,mobile,br_search_conta-digital_brand,126,93,7,7,3
+2026-08-25,Paid Search,mobile,br_search_conta-digital_generic,144,117,5,5,2
+2026-08-25,Paid Search,mobile,br_social_conta-digital_jovens,2,1,0,0,0
+2026-08-25,Paid Search,mobile,br_social_conta-digital_prospecting,4,2,0,0,0
+2026-08-25,Paid Search,mobile,br_social_investimentos_remarketing,3,1,0,0,0
+2026-08-25,Paid Social,desktop,br_social_conta-digital_jovens,13,6,0,0,0
+2026-08-25,Paid Social,desktop,br_social_conta-digital_prospecting,13,9,1,1,1
+2026-08-25,Paid Social,desktop,br_social_investimentos_remarketing,207,127,6,6,4
+2026-08-25,Paid Social,mobile,br_social_conta-digital_jovens,173,83,2,2,1
+2026-08-25,Paid Social,mobile,br_social_conta-digital_prospecting,139,90,2,2,2
+2026-08-25,Paid Social,mobile,br_social_investimentos_remarketing,565,358,19,19,8
+2026-08-25,Referral,desktop,,31,25,1,1,0
+2026-08-25,Referral,mobile,,29,21,2,2,0
+2026-08-26,Afiliados,desktop,br_affiliate_cashback,28,21,2,2,2
+2026-08-26,Afiliados,mobile,br_affiliate_cashback,92,66,6,6,4
+2026-08-26,CRM / E-mail,desktop,br_crm_investimentos_newsletter,164,142,8,8,7
+2026-08-26,CRM / E-mail,mobile,br_crm_investimentos_newsletter,215,178,12,12,9
+2026-08-26,Direct,desktop,,630,472,37,37,26
+2026-08-26,Direct,mobile,,1032,775,47,47,24
+2026-08-26,Influenciadores,desktop,br_influencer_financas-pessoais,8,5,0,0,0
+2026-08-26,Influenciadores,mobile,br_influencer_financas-pessoais,86,55,4,4,2
+2026-08-26,Organic Search,desktop,,100,70,2,2,1
+2026-08-26,Organic Search,mobile,,159,102,6,6,6
+2026-08-26,Paid Search,desktop,(auto-tagging sem utm),6,4,0,0,0
+2026-08-26,Paid Search,desktop,br_search_conta-digital_brand,79,56,2,2,1
+2026-08-26,Paid Search,desktop,br_search_conta-digital_generic,81,59,7,7,4
+2026-08-26,Paid Search,desktop,br_social_investimentos_remarketing,7,5,0,0,0
+2026-08-26,Paid Search,mobile,(auto-tagging sem utm),6,5,1,1,1
+2026-08-26,Paid Search,mobile,br_search_conta-digital_brand,131,99,2,2,2
+2026-08-26,Paid Search,mobile,br_search_conta-digital_generic,121,88,2,2,0
+2026-08-26,Paid Search,mobile,br_social_conta-digital_jovens,2,1,0,0,0
+2026-08-26,Paid Search,mobile,br_social_conta-digital_prospecting,2,2,0,0,0
+2026-08-26,Paid Search,mobile,br_social_investimentos_remarketing,9,4,0,0,0
+2026-08-26,Paid Social,desktop,br_social_conta-digital_jovens,10,7,0,0,0
+2026-08-26,Paid Social,desktop,br_social_conta-digital_prospecting,14,7,0,0,0
+2026-08-26,Paid Social,desktop,br_social_investimentos_remarketing,186,115,4,4,2
+2026-08-26,Paid Social,mobile,br_social_conta-digital_jovens,195,89,2,2,0
+2026-08-26,Paid Social,mobile,br_social_conta-digital_prospecting,92,56,3,3,1
+2026-08-26,Paid Social,mobile,br_social_investimentos_remarketing,518,322,18,18,7
+2026-08-26,Referral,desktop,,28,18,1,1,0
+2026-08-26,Referral,mobile,,35,27,1,1,0
+2026-08-27,Afiliados,desktop,br_affiliate_cashback,31,19,3,3,1
+2026-08-27,Afiliados,mobile,br_affiliate_cashback,87,60,3,3,2
+2026-08-27,CRM / E-mail,desktop,br_crm_investimentos_newsletter,121,103,11,11,6
+2026-08-27,CRM / E-mail,mobile,br_crm_investimentos_newsletter,218,172,14,14,4
+2026-08-27,Direct,desktop,,641,475,30,30,18
+2026-08-27,Direct,mobile,,1025,774,55,55,24
+2026-08-27,Influenciadores,desktop,br_influencer_financas-pessoais,12,8,0,0,0
+2026-08-27,Influenciadores,mobile,br_influencer_financas-pessoais,106,64,1,1,1
+2026-08-27,Organic Search,desktop,,126,87,5,5,3
+2026-08-27,Organic Search,mobile,,173,115,3,3,2
+2026-08-27,Paid Search,desktop,(auto-tagging sem utm),8,5,1,1,0
+2026-08-27,Paid Search,desktop,br_search_conta-digital_brand,80,61,6,6,2
+2026-08-27,Paid Search,desktop,br_search_conta-digital_generic,70,52,3,3,2
+2026-08-27,Paid Search,desktop,br_social_investimentos_remarketing,3,2,0,0,0
+2026-08-27,Paid Search,mobile,(auto-tagging sem utm),9,7,2,2,2
+2026-08-27,Paid Search,mobile,br_search_conta-digital_brand,118,91,5,5,3
+2026-08-27,Paid Search,mobile,br_search_conta-digital_generic,120,93,7,7,5
+2026-08-27,Paid Search,mobile,br_social_conta-digital_jovens,4,2,0,0,0
+2026-08-27,Paid Search,mobile,br_social_conta-digital_prospecting,2,1,0,0,0
+2026-08-27,Paid Search,mobile,br_social_investimentos_remarketing,6,3,0,0,0
+2026-08-27,Paid Social,desktop,br_social_conta-digital_jovens,13,9,0,0,0
+2026-08-27,Paid Social,desktop,br_social_conta-digital_prospecting,15,13,0,0,0
+2026-08-27,Paid Social,desktop,br_social_investimentos_remarketing,202,133,5,5,3
+2026-08-27,Paid Social,mobile,br_social_conta-digital_jovens,176,87,1,1,0
+2026-08-27,Paid Social,mobile,br_social_conta-digital_prospecting,125,82,1,1,0
+2026-08-27,Paid Social,mobile,br_social_investimentos_remarketing,509,314,8,8,2
+2026-08-27,Referral,desktop,,24,14,1,1,1
+2026-08-27,Referral,mobile,,41,27,1,1,1
+2026-08-28,Afiliados,desktop,br_affiliate_cashback,28,25,1,1,1
+2026-08-28,Afiliados,mobile,br_affiliate_cashback,89,59,3,3,2
+2026-08-28,CRM / E-mail,desktop,br_crm_investimentos_newsletter,124,104,12,12,8
+2026-08-28,CRM / E-mail,mobile,br_crm_investimentos_newsletter,207,170,15,15,8
+2026-08-28,Direct,desktop,,623,471,38,38,20
+2026-08-28,Direct,mobile,,1047,779,53,53,26
+2026-08-28,Influenciadores,desktop,br_influencer_financas-pessoais,15,8,0,0,0
+2026-08-28,Influenciadores,mobile,br_influencer_financas-pessoais,74,47,1,1,1
+2026-08-28,Organic Search,desktop,,134,79,2,2,2
+2026-08-28,Organic Search,mobile,,164,103,3,3,2
+2026-08-28,Paid Search,desktop,(auto-tagging sem utm),5,3,0,0,0
+2026-08-28,Paid Search,desktop,br_search_conta-digital_brand,91,69,5,5,2
+2026-08-28,Paid Search,desktop,br_search_conta-digital_generic,73,56,10,10,4
+2026-08-28,Paid Search,desktop,br_social_investimentos_remarketing,2,1,0,0,0
+2026-08-28,Paid Search,mobile,(auto-tagging sem utm),12,9,1,1,0
+2026-08-28,Paid Search,mobile,br_search_conta-digital_brand,127,93,4,4,3
+2026-08-28,Paid Search,mobile,br_search_conta-digital_generic,128,101,6,6,3
+2026-08-28,Paid Search,mobile,br_social_conta-digital_prospecting,1,1,0,0,0
+2026-08-28,Paid Search,mobile,br_social_investimentos_remarketing,6,5,0,0,0
+2026-08-28,Paid Social,desktop,br_social_conta-digital_jovens,21,13,1,1,1
+2026-08-28,Paid Social,desktop,br_social_conta-digital_prospecting,18,10,0,0,0
+2026-08-28,Paid Social,desktop,br_social_investimentos_remarketing,216,145,6,6,5
+2026-08-28,Paid Social,mobile,br_social_conta-digital_jovens,171,94,3,3,1
+2026-08-28,Paid Social,mobile,br_social_conta-digital_prospecting,125,78,1,1,0
+2026-08-28,Paid Social,mobile,br_social_investimentos_remarketing,537,333,16,16,6
+2026-08-28,Referral,desktop,,22,16,2,2,2
+2026-08-28,Referral,mobile,,30,23,0,0,0
+2026-08-29,Afiliados,desktop,br_affiliate_cashback,29,20,4,4,3
+2026-08-29,Afiliados,mobile,br_affiliate_cashback,110,77,5,5,2
+2026-08-29,CRM / E-mail,desktop,br_crm_investimentos_newsletter,146,117,5,5,2
+2026-08-29,CRM / E-mail,mobile,br_crm_investimentos_newsletter,237,195,25,25,8
+2026-08-29,Direct,desktop,,603,448,21,21,11
+2026-08-29,Direct,mobile,,962,719,52,52,28
+2026-08-29,Influenciadores,desktop,br_influencer_financas-pessoais,14,8,1,1,1
+2026-08-29,Influenciadores,mobile,br_influencer_financas-pessoais,82,60,3,3,0
+2026-08-29,Organic Search,desktop,,121,76,7,7,6
+2026-08-29,Organic Search,mobile,,165,101,6,6,4
+2026-08-29,Paid Search,desktop,(auto-tagging sem utm),1,0,0,0,0
+2026-08-29,Paid Search,desktop,br_search_conta-digital_brand,70,53,4,4,2
+2026-08-29,Paid Search,desktop,br_search_conta-digital_generic,85,67,5,5,2
+2026-08-29,Paid Search,desktop,br_social_investimentos_remarketing,4,3,0,0,0
+2026-08-29,Paid Search,mobile,(auto-tagging sem utm),9,8,0,0,0
+2026-08-29,Paid Search,mobile,br_search_conta-digital_brand,117,92,8,8,4
+2026-08-29,Paid Search,mobile,br_search_conta-digital_generic,122,93,3,3,1
+2026-08-29,Paid Search,mobile,br_social_conta-digital_jovens,1,0,0,0,0
+2026-08-29,Paid Search,mobile,br_social_conta-digital_prospecting,2,1,0,0,0
+2026-08-29,Paid Search,mobile,br_social_investimentos_remarketing,9,4,0,0,0
+2026-08-29,Paid Social,desktop,br_social_conta-digital_jovens,14,6,0,0,0
+2026-08-29,Paid Social,desktop,br_social_conta-digital_prospecting,21,15,1,1,1
+2026-08-29,Paid Social,desktop,br_social_investimentos_remarketing,186,128,1,1,1
+2026-08-29,Paid Social,mobile,br_social_conta-digital_jovens,163,89,1,1,0
+2026-08-29,Paid Social,mobile,br_social_conta-digital_prospecting,128,84,4,4,2
+2026-08-29,Paid Social,mobile,br_social_investimentos_remarketing,571,372,14,14,4
+2026-08-29,Referral,desktop,,25,16,0,0,0
+2026-08-29,Referral,mobile,,31,18,1,1,0
+2026-08-30,Afiliados,desktop,br_affiliate_cashback,24,16,0,0,0
+2026-08-30,Afiliados,mobile,br_affiliate_cashback,80,56,5,5,2
+2026-08-30,CRM / E-mail,desktop,br_crm_investimentos_newsletter,124,97,6,6,4
+2026-08-30,CRM / E-mail,mobile,br_crm_investimentos_newsletter,244,197,11,11,5
+2026-08-30,Direct,desktop,,608,443,32,32,21
+2026-08-30,Direct,mobile,,1064,778,52,52,28
+2026-08-30,Influenciadores,desktop,br_influencer_financas-pessoais,11,7,0,0,0
+2026-08-30,Influenciadores,mobile,br_influencer_financas-pessoais,81,49,1,1,0
+2026-08-30,Organic Search,desktop,,113,76,5,5,4
+2026-08-30,Organic Search,mobile,,162,108,5,5,4
+2026-08-30,Paid Search,desktop,(auto-tagging sem utm),5,5,0,0,0
+2026-08-30,Paid Search,desktop,br_search_conta-digital_brand,71,58,0,0,0
+2026-08-30,Paid Search,desktop,br_search_conta-digital_generic,88,68,9,9,6
+2026-08-30,Paid Search,desktop,br_social_conta-digital_prospecting,1,1,0,0,0
+2026-08-30,Paid Search,desktop,br_social_investimentos_remarketing,1,1,0,0,0
+2026-08-30,Paid Search,mobile,(auto-tagging sem utm),3,3,0,0,0
+2026-08-30,Paid Search,mobile,br_search_conta-digital_brand,116,92,4,4,2
+2026-08-30,Paid Search,mobile,br_search_conta-digital_generic,125,95,8,8,3
+2026-08-30,Paid Search,mobile,br_social_conta-digital_prospecting,1,1,0,0,0
+2026-08-30,Paid Search,mobile,br_social_investimentos_remarketing,9,6,1,1,0
+2026-08-30,Paid Social,desktop,br_social_conta-digital_jovens,17,9,1,1,1
+2026-08-30,Paid Social,desktop,br_social_conta-digital_prospecting,21,12,0,0,0
+2026-08-30,Paid Social,desktop,br_social_investimentos_remarketing,203,130,8,8,5
+2026-08-30,Paid Social,mobile,br_social_conta-digital_jovens,147,78,1,1,0
+2026-08-30,Paid Social,mobile,br_social_conta-digital_prospecting,122,80,3,3,1
+2026-08-30,Paid Social,mobile,br_social_investimentos_remarketing,558,346,11,11,6
+2026-08-30,Referral,desktop,,15,11,0,0,0
+2026-08-30,Referral,mobile,,32,18,2,2,1
+2026-08-31,Afiliados,desktop,br_affiliate_cashback,24,18,1,1,1
+2026-08-31,Afiliados,mobile,br_affiliate_cashback,106,72,3,3,2
+2026-08-31,CRM / E-mail,desktop,br_crm_investimentos_newsletter,133,110,11,11,5
+2026-08-31,CRM / E-mail,mobile,br_crm_investimentos_newsletter,246,203,18,18,9
+2026-08-31,Direct,desktop,,599,441,35,35,26
+2026-08-31,Direct,mobile,,1040,806,59,59,34
+2026-08-31,Influenciadores,desktop,br_influencer_financas-pessoais,15,11,0,0,0
+2026-08-31,Influenciadores,mobile,br_influencer_financas-pessoais,95,55,4,4,3
+2026-08-31,Organic Search,desktop,,102,65,2,2,0
+2026-08-31,Organic Search,mobile,,171,108,4,4,1
+2026-08-31,Paid Search,desktop,br_search_conta-digital_brand,74,57,3,3,3
+2026-08-31,Paid Search,desktop,br_search_conta-digital_generic,63,50,4,4,2
+2026-08-31,Paid Search,desktop,br_social_conta-digital_prospecting,1,1,0,0,0
+2026-08-31,Paid Search,desktop,br_social_investimentos_remarketing,4,2,1,1,1
+2026-08-31,Paid Search,mobile,(auto-tagging sem utm),6,4,0,0,0
+2026-08-31,Paid Search,mobile,br_search_conta-digital_brand,146,116,9,9,4
+2026-08-31,Paid Search,mobile,br_search_conta-digital_generic,129,95,4,4,1
+2026-08-31,Paid Search,mobile,br_social_conta-digital_jovens,4,2,0,0,0
+2026-08-31,Paid Search,mobile,br_social_conta-digital_prospecting,6,4,0,0,0
+2026-08-31,Paid Search,mobile,br_social_investimentos_remarketing,10,8,1,1,1
+2026-08-31,Paid Social,desktop,br_social_conta-digital_jovens,14,9,0,0,0
+2026-08-31,Paid Social,desktop,br_social_conta-digital_prospecting,13,8,0,0,0
+2026-08-31,Paid Social,desktop,br_social_investimentos_remarketing,191,124,12,12,7
+2026-08-31,Paid Social,mobile,br_social_conta-digital_jovens,157,83,3,3,1
+2026-08-31,Paid Social,mobile,br_social_conta-digital_prospecting,128,75,2,2,1
+2026-08-31,Paid Social,mobile,br_social_investimentos_remarketing,476,293,18,18,7
+2026-08-31,Referral,desktop,,14,9,0,0,0
+2026-08-31,Referral,mobile,,29,19,0,0,0
+2026-09-01,Afiliados,desktop,br_affiliate_cashback,30,22,0,0,0
+2026-09-01,Afiliados,mobile,br_affiliate_cashback,112,75,5,5,2
+2026-09-01,CRM / E-mail,desktop,br_crm_investimentos_newsletter,151,114,9,9,5
+2026-09-01,CRM / E-mail,mobile,br_crm_investimentos_newsletter,225,185,12,12,9
+2026-09-01,Direct,desktop,,630,490,42,42,29
+2026-09-01,Direct,mobile,,1022,777,58,58,35
+2026-09-01,Influenciadores,desktop,br_influencer_financas-pessoais,2,1,0,0,0
+2026-09-01,Influenciadores,mobile,br_influencer_financas-pessoais,92,67,6,6,2
+2026-09-01,Organic Search,desktop,,109,77,6,6,5
+2026-09-01,Organic Search,mobile,,157,119,8,8,4
+2026-09-01,Paid Search,desktop,(auto-tagging sem utm),3,2,0,0,0
+2026-09-01,Paid Search,desktop,br_search_conta-digital_brand,83,68,7,7,5
+2026-09-01,Paid Search,desktop,br_search_conta-digital_generic,76,57,1,1,0
+2026-09-01,Paid Search,desktop,br_social_conta-digital_jovens,1,1,0,0,0
+2026-09-01,Paid Search,desktop,br_social_investimentos_remarketing,4,3,0,0,0
+2026-09-01,Paid Search,mobile,(auto-tagging sem utm),12,6,0,0,0
+2026-09-01,Paid Search,mobile,br_search_conta-digital_brand,138,101,9,9,4
+2026-09-01,Paid Search,mobile,br_search_conta-digital_generic,142,100,8,8,4
+2026-09-01,Paid Search,mobile,br_social_conta-digital_jovens,4,1,1,1,0
+2026-09-01,Paid Search,mobile,br_social_conta-digital_prospecting,1,1,0,0,0
+2026-09-01,Paid Search,mobile,br_social_investimentos_remarketing,8,6,1,1,0
+2026-09-01,Paid Social,desktop,br_social_conta-digital_jovens,14,10,0,0,0
+2026-09-01,Paid Social,desktop,br_social_conta-digital_prospecting,10,6,0,0,0
+2026-09-01,Paid Social,desktop,br_social_investimentos_remarketing,190,135,5,5,3
+2026-09-01,Paid Social,mobile,br_social_conta-digital_jovens,173,84,1,1,0
+2026-09-01,Paid Social,mobile,br_social_conta-digital_prospecting,132,78,1,1,1
+2026-09-01,Paid Social,mobile,br_social_investimentos_remarketing,545,321,13,13,6
+2026-09-01,Referral,desktop,,30,21,0,0,0
+2026-09-01,Referral,mobile,,34,25,0,0,0
+2026-09-02,Afiliados,desktop,br_affiliate_cashback,33,25,0,0,0
+2026-09-02,Afiliados,mobile,br_affiliate_cashback,106,74,3,3,3
+2026-09-02,CRM / E-mail,desktop,br_crm_investimentos_newsletter,125,103,0,0,0
+2026-09-02,CRM / E-mail,mobile,br_crm_investimentos_newsletter,203,160,14,14,8
+2026-09-02,Direct,desktop,,639,487,37,37,23
+2026-09-02,Direct,mobile,,1059,801,50,50,27
+2026-09-02,Influenciadores,desktop,br_influencer_financas-pessoais,14,9,0,0,0
+2026-09-02,Influenciadores,mobile,br_influencer_financas-pessoais,94,52,2,2,1
+2026-09-02,Organic Search,desktop,,129,78,5,5,3
+2026-09-02,Organic Search,mobile,,173,110,6,6,2
+2026-09-02,Paid Search,desktop,(auto-tagging sem utm),2,1,0,0,0
+2026-09-02,Paid Search,desktop,br_search_conta-digital_brand,79,63,4,4,2
+2026-09-02,Paid Search,desktop,br_search_conta-digital_generic,75,63,7,7,4
+2026-09-02,Paid Search,desktop,br_social_investimentos_remarketing,2,2,0,0,0
+2026-09-02,Paid Search,mobile,(auto-tagging sem utm),10,8,0,0,0
+2026-09-02,Paid Search,mobile,br_search_conta-digital_brand,109,80,8,8,4
+2026-09-02,Paid Search,mobile,br_search_conta-digital_generic,98,77,4,4,1
+2026-09-02,Paid Search,mobile,br_social_conta-digital_jovens,1,0,0,0,0
+2026-09-02,Paid Search,mobile,br_social_investimentos_remarketing,10,6,0,0,0
+2026-09-02,Paid Social,desktop,br_social_conta-digital_jovens,9,3,0,0,0
+2026-09-02,Paid Social,desktop,br_social_conta-digital_prospecting,17,6,0,0,0
+2026-09-02,Paid Social,desktop,br_social_investimentos_remarketing,209,115,10,10,5
+2026-09-02,Paid Social,mobile,br_social_conta-digital_jovens,164,86,0,0,0
+2026-09-02,Paid Social,mobile,br_social_conta-digital_prospecting,128,80,3,3,1
+2026-09-02,Paid Social,mobile,br_social_investimentos_remarketing,498,316,16,16,9
+2026-09-02,Referral,desktop,,25,15,0,0,0
+2026-09-02,Referral,mobile,,30,19,1,1,0
+2026-09-03,Afiliados,desktop,br_affiliate_cashback,26,19,0,0,0
+2026-09-03,Afiliados,mobile,br_affiliate_cashback,90,58,2,2,0
+2026-09-03,CRM / E-mail,desktop,br_crm_investimentos_newsletter,147,123,8,8,3
+2026-09-03,CRM / E-mail,mobile,br_crm_investimentos_newsletter,224,186,19,19,10
+2026-09-03,Direct,desktop,,601,456,32,32,21
+2026-09-03,Direct,mobile,,1096,825,38,38,18
+2026-09-03,Influenciadores,desktop,br_influencer_financas-pessoais,10,8,0,0,0
+2026-09-03,Influenciadores,mobile,br_influencer_financas-pessoais,84,52,2,2,0
+2026-09-03,Organic Search,desktop,,114,72,3,3,2
+2026-09-03,Organic Search,mobile,,164,106,5,5,3
+2026-09-03,Paid Search,desktop,(auto-tagging sem utm),5,5,0,0,0
+2026-09-03,Paid Search,desktop,br_search_conta-digital_brand,73,57,5,5,5
+2026-09-03,Paid Search,desktop,br_search_conta-digital_generic,83,60,4,4,2
+2026-09-03,Paid Search,desktop,br_social_conta-digital_jovens,1,1,0,0,0
+2026-09-03,Paid Search,desktop,br_social_conta-digital_prospecting,1,1,0,0,0
+2026-09-03,Paid Search,desktop,br_social_investimentos_remarketing,1,1,0,0,0
+2026-09-03,Paid Search,mobile,(auto-tagging sem utm),11,6,0,0,0
+2026-09-03,Paid Search,mobile,br_search_conta-digital_brand,114,83,8,8,5
+2026-09-03,Paid Search,mobile,br_search_conta-digital_generic,106,83,7,7,1
+2026-09-03,Paid Search,mobile,br_social_conta-digital_jovens,3,1,0,0,0
+2026-09-03,Paid Search,mobile,br_social_conta-digital_prospecting,4,2,0,0,0
+2026-09-03,Paid Search,mobile,br_social_investimentos_remarketing,5,4,1,1,1
+2026-09-03,Paid Social,desktop,br_social_conta-digital_jovens,11,5,0,0,0
+2026-09-03,Paid Social,desktop,br_social_conta-digital_prospecting,23,17,1,1,1
+2026-09-03,Paid Social,desktop,br_social_investimentos_remarketing,206,133,5,5,2
+2026-09-03,Paid Social,mobile,br_social_conta-digital_jovens,140,76,1,1,0
+2026-09-03,Paid Social,mobile,br_social_conta-digital_prospecting,135,89,1,1,1
+2026-09-03,Paid Social,mobile,br_social_investimentos_remarketing,535,344,16,16,11
+2026-09-03,Referral,desktop,,18,12,2,2,1
+2026-09-03,Referral,mobile,,38,30,3,3,1
+2026-09-04,Afiliados,desktop,br_affiliate_cashback,31,21,1,1,1
+2026-09-04,Afiliados,mobile,br_affiliate_cashback,122,90,8,8,5
+2026-09-04,CRM / E-mail,desktop,br_crm_investimentos_newsletter,140,115,14,14,4
+2026-09-04,CRM / E-mail,mobile,br_crm_investimentos_newsletter,261,210,16,16,6
+2026-09-04,Direct,desktop,,595,453,35,35,26
+2026-09-04,Direct,mobile,,1020,756,61,61,29
+2026-09-04,Influenciadores,desktop,br_influencer_financas-pessoais,9,6,0,0,0
+2026-09-04,Influenciadores,mobile,br_influencer_financas-pessoais,81,45,2,2,1
+2026-09-04,Organic Search,desktop,,124,81,1,1,0
+2026-09-04,Organic Search,mobile,,133,96,2,2,1
+2026-09-04,Paid Search,desktop,(auto-tagging sem utm),7,5,0,0,0
+2026-09-04,Paid Search,desktop,br_search_conta-digital_brand,83,67,5,5,4
+2026-09-04,Paid Search,desktop,br_search_conta-digital_generic,68,48,4,4,3
+2026-09-04,Paid Search,desktop,br_social_investimentos_remarketing,1,0,0,0,0
+2026-09-04,Paid Search,mobile,(auto-tagging sem utm),6,3,0,0,0
+2026-09-04,Paid Search,mobile,br_search_conta-digital_brand,110,76,8,8,1
+2026-09-04,Paid Search,mobile,br_search_conta-digital_generic,140,100,6,6,2
+2026-09-04,Paid Search,mobile,br_social_conta-digital_jovens,2,1,0,0,0
+2026-09-04,Paid Search,mobile,br_social_investimentos_remarketing,7,6,1,1,1
+2026-09-04,Paid Social,desktop,br_social_conta-digital_jovens,15,10,0,0,0
+2026-09-04,Paid Social,desktop,br_social_conta-digital_prospecting,18,8,0,0,0
+2026-09-04,Paid Social,desktop,br_social_investimentos_remarketing,207,138,9,9,6
+2026-09-04,Paid Social,mobile,br_social_conta-digital_jovens,162,89,1,1,1
+2026-09-04,Paid Social,mobile,br_social_conta-digital_prospecting,110,68,4,4,2
+2026-09-04,Paid Social,mobile,br_social_investimentos_remarketing,528,328,9,9,6
+2026-09-04,Referral,desktop,,17,14,0,0,0
+2026-09-04,Referral,mobile,,33,22,2,2,0
+2026-09-05,Afiliados,desktop,br_affiliate_cashback,30,24,1,1,0
+2026-09-05,Afiliados,mobile,br_affiliate_cashback,108,68,5,5,1
+2026-09-05,CRM / E-mail,desktop,br_crm_investimentos_newsletter,144,119,9,9,8
+2026-09-05,CRM / E-mail,mobile,br_crm_investimentos_newsletter,226,192,13,13,8
+2026-09-05,Direct,desktop,,616,453,32,32,13
+2026-09-05,Direct,mobile,,1086,798,59,59,28
+2026-09-05,Influenciadores,desktop,br_influencer_financas-pessoais,15,7,0,0,0
+2026-09-05,Influenciadores,mobile,br_influencer_financas-pessoais,98,62,6,6,6
+2026-09-05,Organic Search,desktop,,117,72,4,4,0
+2026-09-05,Organic Search,mobile,,160,119,1,1,1
+2026-09-05,Paid Search,desktop,(auto-tagging sem utm),2,1,0,0,0
+2026-09-05,Paid Search,desktop,br_search_conta-digital_brand,72,58,4,4,2
+2026-09-05,Paid Search,desktop,br_search_conta-digital_generic,76,57,7,7,4
+2026-09-05,Paid Search,desktop,br_social_investimentos_remarketing,1,1,0,0,0
+2026-09-05,Paid Search,mobile,(auto-tagging sem utm),18,14,0,0,0
+2026-09-05,Paid Search,mobile,br_search_conta-digital_brand,120,91,5,5,2
+2026-09-05,Paid Search,mobile,br_search_conta-digital_generic,113,85,8,8,3
+2026-09-05,Paid Search,mobile,br_social_conta-digital_jovens,1,1,0,0,0
+2026-09-05,Paid Search,mobile,br_social_conta-digital_prospecting,2,2,0,0,0
+2026-09-05,Paid Search,mobile,br_social_investimentos_remarketing,9,5,0,0,0
+2026-09-05,Paid Social,desktop,br_social_conta-digital_jovens,21,14,2,2,1
+2026-09-05,Paid Social,desktop,br_social_conta-digital_prospecting,14,10,2,2,1
+2026-09-05,Paid Social,desktop,br_social_investimentos_remarketing,212,141,5,5,3
+2026-09-05,Paid Social,mobile,br_social_conta-digital_jovens,166,83,5,5,2
+2026-09-05,Paid Social,mobile,br_social_conta-digital_prospecting,143,80,6,6,4
+2026-09-05,Paid Social,mobile,br_social_investimentos_remarketing,526,336,9,9,4
+2026-09-05,Referral,desktop,,18,11,1,1,0
+2026-09-05,Referral,mobile,,21,10,0,0,0
+2026-09-06,Afiliados,desktop,br_affiliate_cashback,33,25,1,1,0
+2026-09-06,Afiliados,mobile,br_affiliate_cashback,91,59,3,3,0
+2026-09-06,CRM / E-mail,desktop,br_crm_investimentos_newsletter,133,97,3,3,0
+2026-09-06,CRM / E-mail,mobile,br_crm_investimentos_newsletter,225,185,20,20,10
+2026-09-06,Direct,desktop,,653,487,20,20,14
+2026-09-06,Direct,mobile,,1066,806,52,52,27
+2026-09-06,Influenciadores,desktop,br_influencer_financas-pessoais,12,8,0,0,0
+2026-09-06,Influenciadores,mobile,br_influencer_financas-pessoais,89,48,3,3,1
+2026-09-06,Organic Search,desktop,,125,84,6,6,3
+2026-09-06,Organic Search,mobile,,167,105,6,6,3
+2026-09-06,Paid Search,desktop,(auto-tagging sem utm),2,1,0,0,0
+2026-09-06,Paid Search,desktop,br_search_conta-digital_brand,59,47,4,4,4
+2026-09-06,Paid Search,desktop,br_search_conta-digital_generic,88,61,5,5,2
+2026-09-06,Paid Search,desktop,br_social_investimentos_remarketing,4,3,0,0,0
+2026-09-06,Paid Search,mobile,(auto-tagging sem utm),8,6,0,0,0
+2026-09-06,Paid Search,mobile,br_search_conta-digital_brand,126,87,6,6,3
+2026-09-06,Paid Search,mobile,br_search_conta-digital_generic,116,83,2,2,2
+2026-09-06,Paid Search,mobile,br_social_conta-digital_jovens,5,2,0,0,0
+2026-09-06,Paid Search,mobile,br_social_conta-digital_prospecting,6,6,1,1,0
+2026-09-06,Paid Search,mobile,br_social_investimentos_remarketing,5,2,0,0,0
+2026-09-06,Paid Social,desktop,br_social_conta-digital_jovens,14,7,0,0,0
+2026-09-06,Paid Social,desktop,br_social_conta-digital_prospecting,13,9,0,0,0
+2026-09-06,Paid Social,desktop,br_social_investimentos_remarketing,191,125,11,11,7
+2026-09-06,Paid Social,mobile,br_social_conta-digital_jovens,173,88,4,4,2
+2026-09-06,Paid Social,mobile,br_social_conta-digital_prospecting,128,77,1,1,1
+2026-09-06,Paid Social,mobile,br_social_investimentos_remarketing,541,317,14,14,5
+2026-09-06,Referral,desktop,,16,10,0,0,0
+2026-09-06,Referral,mobile,,37,27,6,6,2
+2026-09-07,Afiliados,desktop,br_affiliate_cashback,20,13,0,0,0
+2026-09-07,Afiliados,mobile,br_affiliate_cashback,97,62,2,2,0
+2026-09-07,CRM / E-mail,desktop,br_crm_investimentos_newsletter,134,112,6,6,4
+2026-09-07,CRM / E-mail,mobile,br_crm_investimentos_newsletter,208,173,14,14,9
+2026-09-07,Direct,desktop,,618,460,25,25,18
+2026-09-07,Direct,mobile,,1097,844,54,54,26
+2026-09-07,Influenciadores,desktop,br_influencer_financas-pessoais,13,8,0,0,0
+2026-09-07,Influenciadores,mobile,br_influencer_financas-pessoais,107,68,3,3,1
+2026-09-07,Organic Search,desktop,,114,91,6,6,5
+2026-09-07,Organic Search,mobile,,179,127,9,9,3
+2026-09-07,Paid Search,desktop,(auto-tagging sem utm),6,5,3,3,2
+2026-09-07,Paid Search,desktop,br_search_conta-digital_brand,74,62,1,1,1
+2026-09-07,Paid Search,desktop,br_search_conta-digital_generic,83,59,4,4,1
+2026-09-07,Paid Search,desktop,br_social_investimentos_remarketing,6,5,0,0,0
+2026-09-07,Paid Search,mobile,(auto-tagging sem utm),14,12,0,0,0
+2026-09-07,Paid Search,mobile,br_search_conta-digital_brand,87,62,2,2,2
+2026-09-07,Paid Search,mobile,br_search_conta-digital_generic,96,70,5,5,2
+2026-09-07,Paid Search,mobile,br_social_conta-digital_jovens,1,1,0,0,0
+2026-09-07,Paid Search,mobile,br_social_conta-digital_prospecting,2,1,0,0,0
+2026-09-07,Paid Search,mobile,br_social_investimentos_remarketing,14,10,0,0,0
+2026-09-07,Paid Social,desktop,br_social_conta-digital_jovens,16,9,0,0,0
+2026-09-07,Paid Social,desktop,br_social_conta-digital_prospecting,16,9,0,0,0
+2026-09-07,Paid Social,desktop,br_social_investimentos_remarketing,197,129,5,5,3
+2026-09-07,Paid Social,mobile,br_social_conta-digital_jovens,153,80,4,4,3
+2026-09-07,Paid Social,mobile,br_social_conta-digital_prospecting,119,69,2,2,0
+2026-09-07,Paid Social,mobile,br_social_investimentos_remarketing,524,320,14,14,7
+2026-09-07,Referral,desktop,,20,17,3,3,0
+2026-09-07,Referral,mobile,,39,25,1,1,0
+2026-09-08,Afiliados,desktop,br_affiliate_cashback,32,23,2,2,1
+2026-09-08,Afiliados,mobile,br_affiliate_cashback,101,66,3,3,2
+2026-09-08,CRM / E-mail,desktop,br_crm_investimentos_newsletter,150,126,9,9,3
+2026-09-08,CRM / E-mail,mobile,br_crm_investimentos_newsletter,197,161,10,10,4
+2026-09-08,Direct,desktop,,612,459,29,29,18
+2026-09-08,Direct,mobile,,994,764,53,53,28
+2026-09-08,Influenciadores,desktop,br_influencer_financas-pessoais,5,2,0,0,0
+2026-09-08,Influenciadores,mobile,br_influencer_financas-pessoais,80,47,3,3,0
+2026-09-08,Organic Search,desktop,,116,80,4,4,3
+2026-09-08,Organic Search,mobile,,175,115,9,9,5
+2026-09-08,Paid Search,desktop,(auto-tagging sem utm),2,2,0,0,0
+2026-09-08,Paid Search,desktop,br_search_conta-digital_brand,68,49,3,3,0
+2026-09-08,Paid Search,desktop,br_search_conta-digital_generic,96,80,4,4,2
+2026-09-08,Paid Search,desktop,br_social_conta-digital_prospecting,1,1,0,0,0
+2026-09-08,Paid Search,desktop,br_social_investimentos_remarketing,2,1,0,0,0
+2026-09-08,Paid Search,mobile,(auto-tagging sem utm),7,5,0,0,0
+2026-09-08,Paid Search,mobile,br_search_conta-digital_brand,114,75,2,2,1
+2026-09-08,Paid Search,mobile,br_search_conta-digital_generic,127,89,5,5,2
+2026-09-08,Paid Search,mobile,br_social_conta-digital_jovens,1,0,0,0,0
+2026-09-08,Paid Search,mobile,br_social_conta-digital_prospecting,2,2,0,0,0
+2026-09-08,Paid Search,mobile,br_social_investimentos_remarketing,3,2,0,0,0
+2026-09-08,Paid Social,desktop,br_social_conta-digital_jovens,11,5,0,0,0
+2026-09-08,Paid Social,desktop,br_social_conta-digital_prospecting,12,7,0,0,0
+2026-09-08,Paid Social,desktop,br_social_investimentos_remarketing,176,111,10,10,7
+2026-09-08,Paid Social,mobile,br_social_conta-digital_jovens,162,84,2,2,2
+2026-09-08,Paid Social,mobile,br_social_conta-digital_prospecting,119,68,3,3,1
+2026-09-08,Paid Social,mobile,br_social_investimentos_remarketing,519,332,9,9,5
+2026-09-08,Referral,desktop,,28,21,1,1,0
+2026-09-08,Referral,mobile,,25,17,0,0,0
+2026-09-09,Afiliados,desktop,br_affiliate_cashback,36,22,1,1,0
+2026-09-09,Afiliados,mobile,br_affiliate_cashback,97,66,2,2,1
+2026-09-09,CRM / E-mail,desktop,br_crm_investimentos_newsletter,144,118,6,6,4
+2026-09-09,CRM / E-mail,mobile,br_crm_investimentos_newsletter,244,194,12,12,3
+2026-09-09,Direct,desktop,,640,485,29,29,20
+2026-09-09,Direct,mobile,,981,774,49,49,26
+2026-09-09,Influenciadores,desktop,br_influencer_financas-pessoais,10,7,0,0,0
+2026-09-09,Influenciadores,mobile,br_influencer_financas-pessoais,86,58,3,3,2
+2026-09-09,Organic Search,desktop,,117,84,6,6,2
+2026-09-09,Organic Search,mobile,,170,120,12,12,6
+2026-09-09,Paid Search,desktop,(auto-tagging sem utm),7,6,0,0,0
+2026-09-09,Paid Search,desktop,br_search_conta-digital_brand,69,53,0,0,0
+2026-09-09,Paid Search,desktop,br_search_conta-digital_generic,90,70,5,5,3
+2026-09-09,Paid Search,desktop,br_social_investimentos_remarketing,5,3,0,0,0
+2026-09-09,Paid Search,mobile,(auto-tagging sem utm),11,8,0,0,0
+2026-09-09,Paid Search,mobile,br_search_conta-digital_brand,141,114,5,5,1
+2026-09-09,Paid Search,mobile,br_search_conta-digital_generic,144,103,7,7,3
+2026-09-09,Paid Search,mobile,br_social_conta-digital_jovens,2,1,0,0,0
+2026-09-09,Paid Search,mobile,br_social_conta-digital_prospecting,1,1,0,0,0
+2026-09-09,Paid Search,mobile,br_social_investimentos_remarketing,8,6,1,1,0
+2026-09-09,Paid Social,desktop,br_social_conta-digital_jovens,9,5,0,0,0
+2026-09-09,Paid Social,desktop,br_social_conta-digital_prospecting,17,7,0,0,0
+2026-09-09,Paid Social,desktop,br_social_investimentos_remarketing,180,126,7,7,4
+2026-09-09,Paid Social,mobile,br_social_conta-digital_jovens,143,58,1,1,0
+2026-09-09,Paid Social,mobile,br_social_conta-digital_prospecting,121,83,2,2,2
+2026-09-09,Paid Social,mobile,br_social_investimentos_remarketing,512,319,18,18,7
+2026-09-09,Referral,desktop,,17,10,1,1,1
+2026-09-09,Referral,mobile,,39,24,2,2,1
+2026-09-10,Afiliados,desktop,br_affiliate_cashback,27,21,1,1,1
+2026-09-10,Afiliados,mobile,br_affiliate_cashback,95,64,2,2,0
+2026-09-10,CRM / E-mail,desktop,br_crm_investimentos_newsletter,127,110,10,10,6
+2026-09-10,CRM / E-mail,mobile,br_crm_investimentos_newsletter,233,204,15,15,9
+2026-09-10,Direct,desktop,,612,461,33,33,24
+2026-09-10,Direct,mobile,,1067,831,51,51,22
+2026-09-10,Influenciadores,desktop,br_influencer_financas-pessoais,9,5,0,0,0
+2026-09-10,Influenciadores,mobile,br_influencer_financas-pessoais,85,46,2,2,0
+2026-09-10,Organic Search,desktop,,127,82,5,5,3
+2026-09-10,Organic Search,mobile,,186,124,5,5,3
+2026-09-10,Paid Search,desktop,(auto-tagging sem utm),6,5,0,0,0
+2026-09-10,Paid Search,desktop,br_search_conta-digital_brand,88,69,6,6,3
+2026-09-10,Paid Search,desktop,br_search_conta-digital_generic,73,56,5,5,3
+2026-09-10,Paid Search,desktop,br_social_investimentos_remarketing,2,2,0,0,0
+2026-09-10,Paid Search,mobile,(auto-tagging sem utm),12,6,1,1,1
+2026-09-10,Paid Search,mobile,br_search_conta-digital_brand,143,110,9,9,4
+2026-09-10,Paid Search,mobile,br_search_conta-digital_generic,115,86,2,2,2
+2026-09-10,Paid Search,mobile,br_social_conta-digital_jovens,1,0,0,0,0
+2026-09-10,Paid Search,mobile,br_social_conta-digital_prospecting,2,0,0,0,0
+2026-09-10,Paid Search,mobile,br_social_investimentos_remarketing,10,8,0,0,0
+2026-09-10,Paid Social,desktop,br_social_conta-digital_jovens,11,4,0,0,0
+2026-09-10,Paid Social,desktop,br_social_conta-digital_prospecting,24,16,0,0,0
+2026-09-10,Paid Social,desktop,br_social_investimentos_remarketing,200,127,6,6,4
+2026-09-10,Paid Social,mobile,br_social_conta-digital_jovens,170,75,3,3,2
+2026-09-10,Paid Social,mobile,br_social_conta-digital_prospecting,129,70,2,2,1
+2026-09-10,Paid Social,mobile,br_social_investimentos_remarketing,515,329,10,10,5
+2026-09-10,Referral,desktop,,26,18,0,0,0
+2026-09-10,Referral,mobile,,55,36,1,1,0
+2026-09-11,Afiliados,desktop,br_affiliate_cashback,25,15,1,1,1
+2026-09-11,Afiliados,mobile,br_affiliate_cashback,101,70,7,7,1
+2026-09-11,CRM / E-mail,desktop,br_crm_investimentos_newsletter,137,117,14,14,8
+2026-09-11,CRM / E-mail,mobile,br_crm_investimentos_newsletter,231,185,17,17,11
+2026-09-11,Direct,desktop,,614,456,31,31,16
+2026-09-11,Direct,mobile,,1017,772,47,47,19
+2026-09-11,Influenciadores,desktop,br_influencer_financas-pessoais,12,7,0,0,0
+2026-09-11,Influenciadores,mobile,br_influencer_financas-pessoais,104,67,2,2,1
+2026-09-11,Organic Search,desktop,,125,90,4,4,1
+2026-09-11,Organic Search,mobile,,149,106,9,9,4
+2026-09-11,Paid Search,desktop,(auto-tagging sem utm),4,3,0,0,0
+2026-09-11,Paid Search,desktop,br_search_conta-digital_brand,76,61,3,3,2
+2026-09-11,Paid Search,desktop,br_search_conta-digital_generic,68,46,3,3,2
+2026-09-11,Paid Search,desktop,br_social_conta-digital_jovens,1,1,0,0,0
+2026-09-11,Paid Search,mobile,(auto-tagging sem utm),9,6,0,0,0
+2026-09-11,Paid Search,mobile,br_search_conta-digital_brand,134,105,6,6,4
+2026-09-11,Paid Search,mobile,br_search_conta-digital_generic,130,87,3,3,1
+2026-09-11,Paid Search,mobile,br_social_conta-digital_jovens,1,1,0,0,0
+2026-09-11,Paid Search,mobile,br_social_conta-digital_prospecting,3,1,0,0,0
+2026-09-11,Paid Search,mobile,br_social_investimentos_remarketing,10,6,0,0,0
+2026-09-11,Paid Social,desktop,br_social_conta-digital_jovens,6,3,0,0,0
+2026-09-11,Paid Social,desktop,br_social_conta-digital_prospecting,16,9,0,0,0
+2026-09-11,Paid Social,desktop,br_social_investimentos_remarketing,198,136,5,5,3
+2026-09-11,Paid Social,mobile,br_social_conta-digital_jovens,157,83,2,2,0
+2026-09-11,Paid Social,mobile,br_social_conta-digital_prospecting,135,82,1,1,1
+2026-09-11,Paid Social,mobile,br_social_investimentos_remarketing,532,353,15,15,6
+2026-09-11,Referral,desktop,,28,14,0,0,0
+2026-09-11,Referral,mobile,,25,16,2,2,1
+2026-09-12,Afiliados,desktop,br_affiliate_cashback,34,25,2,2,1
+2026-09-12,Afiliados,mobile,br_affiliate_cashback,83,62,1,1,0
+2026-09-12,CRM / E-mail,desktop,br_crm_investimentos_newsletter,137,111,13,13,10
+2026-09-12,CRM / E-mail,mobile,br_crm_investimentos_newsletter,227,184,9,9,3
+2026-09-12,Direct,desktop,,604,454,32,32,18
+2026-09-12,Direct,mobile,,1024,776,46,46,23
+2026-09-12,Influenciadores,desktop,br_influencer_financas-pessoais,10,7,1,1,0
+2026-09-12,Influenciadores,mobile,br_influencer_financas-pessoais,68,40,1,1,0
+2026-09-12,Organic Search,desktop,,106,65,4,4,4
+2026-09-12,Organic Search,mobile,,155,114,3,3,2
+2026-09-12,Paid Search,desktop,(auto-tagging sem utm),10,6,0,0,0
+2026-09-12,Paid Search,desktop,br_search_conta-digital_brand,65,50,2,2,2
+2026-09-12,Paid Search,desktop,br_search_conta-digital_generic,65,51,6,6,2
+2026-09-12,Paid Search,desktop,br_social_investimentos_remarketing,5,5,0,0,0
+2026-09-12,Paid Search,mobile,(auto-tagging sem utm),7,6,2,2,1
+2026-09-12,Paid Search,mobile,br_search_conta-digital_brand,112,93,5,5,2
+2026-09-12,Paid Search,mobile,br_search_conta-digital_generic,107,82,5,5,2
+2026-09-12,Paid Search,mobile,br_social_conta-digital_jovens,3,2,0,0,0
+2026-09-12,Paid Search,mobile,br_social_conta-digital_prospecting,3,3,0,0,0
+2026-09-12,Paid Search,mobile,br_social_investimentos_remarketing,8,6,0,0,0
+2026-09-12,Paid Social,desktop,br_social_conta-digital_jovens,14,10,1,1,0
+2026-09-12,Paid Social,desktop,br_social_conta-digital_prospecting,20,12,0,0,0
+2026-09-12,Paid Social,desktop,br_social_investimentos_remarketing,198,123,4,4,1
+2026-09-12,Paid Social,mobile,br_social_conta-digital_jovens,155,64,3,3,2
+2026-09-12,Paid Social,mobile,br_social_conta-digital_prospecting,113,66,1,1,0
+2026-09-12,Paid Social,mobile,br_social_investimentos_remarketing,501,309,12,12,5
+2026-09-12,Referral,desktop,,15,10,0,0,0
+2026-09-12,Referral,mobile,,36,21,2,2,1
+2026-09-13,Afiliados,desktop,br_affiliate_cashback,26,16,0,0,0
+2026-09-13,Afiliados,mobile,br_affiliate_cashback,99,69,6,6,2
+2026-09-13,CRM / E-mail,desktop,br_crm_investimentos_newsletter,135,102,14,14,11
+2026-09-13,CRM / E-mail,mobile,br_crm_investimentos_newsletter,230,192,18,18,8
+2026-09-13,Direct,desktop,,596,458,31,31,17
+2026-09-13,Direct,mobile,,1046,789,45,45,18
+2026-09-13,Influenciadores,desktop,br_influencer_financas-pessoais,15,3,0,0,0
+2026-09-13,Influenciadores,mobile,br_influencer_financas-pessoais,104,71,10,10,3
+2026-09-13,Organic Search,desktop,,119,84,9,9,5
+2026-09-13,Organic Search,mobile,,172,119,8,8,6
+2026-09-13,Paid Search,desktop,(auto-tagging sem utm),5,4,0,0,0
+2026-09-13,Paid Search,desktop,br_search_conta-digital_brand,76,61,9,9,7
+2026-09-13,Paid Search,desktop,br_search_conta-digital_generic,69,55,2,2,1
+2026-09-13,Paid Search,desktop,br_social_conta-digital_jovens,1,0,0,0,0
+2026-09-13,Paid Search,desktop,br_social_investimentos_remarketing,4,3,0,0,0
+2026-09-13,Paid Search,mobile,(auto-tagging sem utm),6,5,0,0,0
+2026-09-13,Paid Search,mobile,br_search_conta-digital_brand,112,82,8,8,5
+2026-09-13,Paid Search,mobile,br_search_conta-digital_generic,104,76,6,6,3
+2026-09-13,Paid Search,mobile,br_social_conta-digital_jovens,1,1,0,0,0
+2026-09-13,Paid Search,mobile,br_social_conta-digital_prospecting,3,2,0,0,0
+2026-09-13,Paid Search,mobile,br_social_investimentos_remarketing,8,6,0,0,0
+2026-09-13,Paid Social,desktop,br_social_conta-digital_jovens,13,7,2,2,0
+2026-09-13,Paid Social,desktop,br_social_conta-digital_prospecting,16,11,1,1,1
+2026-09-13,Paid Social,desktop,br_social_investimentos_remarketing,205,128,5,5,5
+2026-09-13,Paid Social,mobile,br_social_conta-digital_jovens,204,97,2,2,0
+2026-09-13,Paid Social,mobile,br_social_conta-digital_prospecting,126,80,1,1,1
+2026-09-13,Paid Social,mobile,br_social_investimentos_remarketing,534,343,21,21,8
+2026-09-13,Referral,desktop,,27,22,2,2,1
+2026-09-13,Referral,mobile,,35,27,1,1,0
+2026-09-14,Afiliados,desktop,br_affiliate_cashback,45,31,1,1,1
+2026-09-14,Afiliados,mobile,br_affiliate_cashback,83,54,2,2,1
+2026-09-14,CRM / E-mail,desktop,br_crm_investimentos_newsletter,120,92,10,10,5
+2026-09-14,CRM / E-mail,mobile,br_crm_investimentos_newsletter,204,164,14,14,11
+2026-09-14,Direct,desktop,,669,512,27,27,17
+2026-09-14,Direct,mobile,,1069,818,67,67,39
+2026-09-14,Influenciadores,desktop,br_influencer_financas-pessoais,16,12,1,1,0
+2026-09-14,Influenciadores,mobile,br_influencer_financas-pessoais,101,58,2,2,1
+2026-09-14,Organic Search,desktop,,120,83,7,7,4
+2026-09-14,Organic Search,mobile,,165,112,7,7,2
+2026-09-14,Paid Search,desktop,(auto-tagging sem utm),5,3,0,0,0
+2026-09-14,Paid Search,desktop,br_search_conta-digital_brand,71,58,4,4,1
+2026-09-14,Paid Search,desktop,br_search_conta-digital_generic,76,62,5,5,4
+2026-09-14,Paid Search,desktop,br_social_investimentos_remarketing,5,3,0,0,0
+2026-09-14,Paid Search,mobile,(auto-tagging sem utm),9,7,0,0,0
+2026-09-14,Paid Search,mobile,br_search_conta-digital_brand,135,98,5,5,4
+2026-09-14,Paid Search,mobile,br_search_conta-digital_generic,114,87,6,6,5
+2026-09-14,Paid Search,mobile,br_social_conta-digital_jovens,2,0,0,0,0
+2026-09-14,Paid Search,mobile,br_social_conta-digital_prospecting,1,1,0,0,0
+2026-09-14,Paid Search,mobile,br_social_investimentos_remarketing,5,5,1,1,1
+2026-09-14,Paid Social,desktop,br_social_conta-digital_jovens,11,4,0,0,0
+2026-09-14,Paid Social,desktop,br_social_conta-digital_prospecting,17,14,0,0,0
+2026-09-14,Paid Social,desktop,br_social_investimentos_remarketing,209,121,6,6,5
+2026-09-14,Paid Social,mobile,br_social_conta-digital_jovens,172,89,1,1,0
+2026-09-14,Paid Social,mobile,br_social_conta-digital_prospecting,123,58,1,1,1
+2026-09-14,Paid Social,mobile,br_social_investimentos_remarketing,525,343,22,22,12
+2026-09-14,Referral,desktop,,24,10,0,0,0
+2026-09-14,Referral,mobile,,23,14,2,2,0
+2026-09-15,Afiliados,desktop,br_affiliate_cashback,23,17,2,2,0
+2026-09-15,Afiliados,mobile,br_affiliate_cashback,84,51,4,4,1
+2026-09-15,CRM / E-mail,desktop,br_crm_investimentos_newsletter,123,100,6,6,3
+2026-09-15,CRM / E-mail,mobile,br_crm_investimentos_newsletter,242,186,12,12,6
+2026-09-15,Direct,desktop,,647,498,35,35,22
+2026-09-15,Direct,mobile,,1061,817,47,47,20
+2026-09-15,Influenciadores,desktop,br_influencer_financas-pessoais,13,4,0,0,0
+2026-09-15,Influenciadores,mobile,br_influencer_financas-pessoais,91,61,2,2,1
+2026-09-15,Organic Search,desktop,,117,76,7,7,5
+2026-09-15,Organic Search,mobile,,186,120,5,5,2
+2026-09-15,Paid Search,desktop,(auto-tagging sem utm),4,3,0,0,0
+2026-09-15,Paid Search,desktop,br_search_conta-digital_brand,79,63,6,6,4
+2026-09-15,Paid Search,desktop,br_search_conta-digital_generic,87,70,3,3,2
+2026-09-15,Paid Search,desktop,br_social_conta-digital_prospecting,1,0,0,0,0
+2026-09-15,Paid Search,desktop,br_social_investimentos_remarketing,2,1,0,0,0
+2026-09-15,Paid Search,mobile,(auto-tagging sem utm),6,2,0,0,0
+2026-09-15,Paid Search,mobile,br_search_conta-digital_brand,137,108,7,7,2
+2026-09-15,Paid Search,mobile,br_search_conta-digital_generic,123,96,8,8,6
+2026-09-15,Paid Search,mobile,br_social_conta-digital_jovens,1,1,0,0,0
+2026-09-15,Paid Search,mobile,br_social_investimentos_remarketing,9,5,0,0,0
+2026-09-15,Paid Social,desktop,br_social_conta-digital_jovens,16,9,0,0,0
+2026-09-15,Paid Social,desktop,br_social_conta-digital_prospecting,13,5,0,0,0
+2026-09-15,Paid Social,desktop,br_social_investimentos_remarketing,202,133,5,5,1
+2026-09-15,Paid Social,mobile,br_social_conta-digital_jovens,162,87,2,2,1
+2026-09-15,Paid Social,mobile,br_social_conta-digital_prospecting,131,74,1,1,0
+2026-09-15,Paid Social,mobile,br_social_investimentos_remarketing,524,324,14,14,5
+2026-09-15,Referral,desktop,,18,16,0,0,0
+2026-09-15,Referral,mobile,,41,26,1,1,0
+2026-09-16,Afiliados,desktop,br_affiliate_cashback,24,14,2,2,2
+2026-09-16,Afiliados,mobile,br_affiliate_cashback,80,59,1,1,0
+2026-09-16,CRM / E-mail,desktop,br_crm_investimentos_newsletter,124,98,7,7,7
+2026-09-16,CRM / E-mail,mobile,br_crm_investimentos_newsletter,199,164,9,9,4
+2026-09-16,Direct,desktop,,631,450,29,29,17
+2026-09-16,Direct,mobile,,1036,794,50,50,31
+2026-09-16,Influenciadores,desktop,br_influencer_financas-pessoais,14,11,0,0,0
+2026-09-16,Influenciadores,mobile,br_influencer_financas-pessoais,112,70,5,5,2
+2026-09-16,Organic Search,desktop,,141,94,2,2,0
+2026-09-16,Organic Search,mobile,,142,95,3,3,1
+2026-09-16,Paid Search,desktop,(auto-tagging sem utm),5,4,0,0,0
+2026-09-16,Paid Search,desktop,br_search_conta-digital_brand,79,61,6,6,4
+2026-09-16,Paid Search,desktop,br_search_conta-digital_generic,75,57,2,2,2
+2026-09-16,Paid Search,desktop,br_social_conta-digital_jovens,1,0,0,0,0
+2026-09-16,Paid Search,desktop,br_social_investimentos_remarketing,1,1,0,0,0
+2026-09-16,Paid Search,mobile,(auto-tagging sem utm),13,10,1,1,1
+2026-09-16,Paid Search,mobile,br_search_conta-digital_brand,114,78,7,7,3
+2026-09-16,Paid Search,mobile,br_search_conta-digital_generic,138,98,13,13,6
+2026-09-16,Paid Search,mobile,br_social_conta-digital_jovens,1,0,0,0,0
+2026-09-16,Paid Search,mobile,br_social_conta-digital_prospecting,3,2,0,0,0
+2026-09-16,Paid Search,mobile,br_social_investimentos_remarketing,8,4,1,1,0
+2026-09-16,Paid Social,desktop,br_social_conta-digital_jovens,11,4,0,0,0
+2026-09-16,Paid Social,desktop,br_social_conta-digital_prospecting,15,10,1,1,1
+2026-09-16,Paid Social,desktop,br_social_investimentos_remarketing,195,118,5,5,2
+2026-09-16,Paid Social,mobile,br_social_conta-digital_jovens,177,108,4,4,2
+2026-09-16,Paid Social,mobile,br_social_conta-digital_prospecting,143,85,2,2,1
+2026-09-16,Paid Social,mobile,br_social_investimentos_remarketing,511,329,13,13,5
+2026-09-16,Referral,desktop,,26,16,0,0,0
+2026-09-16,Referral,mobile,,28,17,1,1,1
+2026-09-17,Afiliados,desktop,br_affiliate_cashback,25,19,1,1,0
+2026-09-17,Afiliados,mobile,br_affiliate_cashback,101,68,5,5,2
+2026-09-17,CRM / E-mail,desktop,br_crm_investimentos_newsletter,145,122,11,11,3
+2026-09-17,CRM / E-mail,mobile,br_crm_investimentos_newsletter,205,163,15,15,10
+2026-09-17,Direct,desktop,,635,478,34,34,22
+2026-09-17,Direct,mobile,,1030,765,58,58,28
+2026-09-17,Influenciadores,desktop,br_influencer_financas-pessoais,18,12,2,2,1
+2026-09-17,Influenciadores,mobile,br_influencer_financas-pessoais,89,53,1,1,1
+2026-09-17,Organic Search,desktop,,111,77,10,10,6
+2026-09-17,Organic Search,mobile,,148,92,1,1,0
+2026-09-17,Paid Search,desktop,(auto-tagging sem utm),8,7,0,0,0
+2026-09-17,Paid Search,desktop,br_search_conta-digital_brand,71,54,3,3,3
+2026-09-17,Paid Search,desktop,br_search_conta-digital_generic,80,59,1,1,1
+2026-09-17,Paid Search,desktop,br_social_investimentos_remarketing,5,5,0,0,0
+2026-09-17,Paid Search,mobile,(auto-tagging sem utm),9,8,0,0,0
+2026-09-17,Paid Search,mobile,br_search_conta-digital_brand,101,79,4,4,1
+2026-09-17,Paid Search,mobile,br_search_conta-digital_generic,121,89,4,4,3
+2026-09-17,Paid Search,mobile,br_social_conta-digital_jovens,4,3,0,0,0
+2026-09-17,Paid Search,mobile,br_social_investimentos_remarketing,6,2,0,0,0
+2026-09-17,Paid Social,desktop,br_social_conta-digital_jovens,12,7,0,0,0
+2026-09-17,Paid Social,desktop,br_social_conta-digital_prospecting,12,8,0,0,0
+2026-09-17,Paid Social,desktop,br_social_investimentos_remarketing,217,140,9,9,2
+2026-09-17,Paid Social,mobile,br_social_conta-digital_jovens,184,102,3,3,1
+2026-09-17,Paid Social,mobile,br_social_conta-digital_prospecting,122,66,2,2,0
+2026-09-17,Paid Social,mobile,br_social_investimentos_remarketing,534,336,15,15,8
+2026-09-17,Referral,desktop,,24,14,0,0,0
+2026-09-17,Referral,mobile,,35,25,1,1,1
+2026-09-18,Afiliados,desktop,br_affiliate_cashback,21,16,1,1,1
+2026-09-18,Afiliados,mobile,br_affiliate_cashback,92,66,4,4,3
+2026-09-18,CRM / E-mail,desktop,br_crm_investimentos_newsletter,141,121,8,8,5
+2026-09-18,CRM / E-mail,mobile,br_crm_investimentos_newsletter,255,208,21,21,12
+2026-09-18,Direct,desktop,,618,479,40,40,27
+2026-09-18,Direct,mobile,,1049,777,47,47,22
+2026-09-18,Influenciadores,desktop,br_influencer_financas-pessoais,13,12,0,0,0
+2026-09-18,Influenciadores,mobile,br_influencer_financas-pessoais,90,56,5,5,2
+2026-09-18,Organic Search,desktop,,116,66,4,4,4
+2026-09-18,Organic Search,mobile,,174,118,5,5,3
+2026-09-18,Paid Search,desktop,(auto-tagging sem utm),3,2,0,0,0
+2026-09-18,Paid Search,desktop,br_search_conta-digital_brand,71,61,4,4,3
+2026-09-18,Paid Search,desktop,br_search_conta-digital_generic,74,57,1,1,0
+2026-09-18,Paid Search,desktop,br_social_investimentos_remarketing,4,4,1,1,0
+2026-09-18,Paid Search,mobile,(auto-tagging sem utm),8,7,0,0,0
+2026-09-18,Paid Search,mobile,br_search_conta-digital_brand,128,100,10,10,6
+2026-09-18,Paid Search,mobile,br_search_conta-digital_generic,111,72,0,0,0
+2026-09-18,Paid Search,mobile,br_social_conta-digital_jovens,3,0,0,0,0
+2026-09-18,Paid Search,mobile,br_social_conta-digital_prospecting,1,1,0,0,0
+2026-09-18,Paid Search,mobile,br_social_investimentos_remarketing,12,7,0,0,0
+2026-09-18,Paid Social,desktop,br_social_conta-digital_jovens,18,8,0,0,0
+2026-09-18,Paid Social,desktop,br_social_conta-digital_prospecting,14,9,0,0,0
+2026-09-18,Paid Social,desktop,br_social_investimentos_remarketing,214,137,1,1,1
+2026-09-18,Paid Social,mobile,br_social_conta-digital_jovens,160,78,1,1,0
+2026-09-18,Paid Social,mobile,br_social_conta-digital_prospecting,142,69,5,5,1
+2026-09-18,Paid Social,mobile,br_social_investimentos_remarketing,546,346,12,12,4
+2026-09-18,Referral,desktop,,24,17,1,1,0
+2026-09-18,Referral,mobile,,30,20,2,2,0
+2026-09-19,Afiliados,desktop,br_affiliate_cashback,27,14,0,0,0
+2026-09-19,Afiliados,mobile,br_affiliate_cashback,93,63,2,2,1
+2026-09-19,CRM / E-mail,desktop,br_crm_investimentos_newsletter,141,118,10,10,6
+2026-09-19,CRM / E-mail,mobile,br_crm_investimentos_newsletter,206,169,18,18,7
+2026-09-19,Direct,desktop,,648,494,33,33,22
+2026-09-19,Direct,mobile,,1023,782,50,50,24
+2026-09-19,Influenciadores,desktop,br_influencer_financas-pessoais,11,6,0,0,0
+2026-09-19,Influenciadores,mobile,br_influencer_financas-pessoais,84,60,4,4,0
+2026-09-19,Organic Search,desktop,,114,72,5,5,4
+2026-09-19,Organic Search,mobile,,153,98,7,7,4
+2026-09-19,Paid Search,desktop,(auto-tagging sem utm),3,3,1,1,1
+2026-09-19,Paid Search,desktop,br_search_conta-digital_brand,80,63,1,1,0
+2026-09-19,Paid Search,desktop,br_search_conta-digital_generic,74,57,4,4,2
+2026-09-19,Paid Search,desktop,br_social_investimentos_remarketing,3,2,0,0,0
+2026-09-19,Paid Search,mobile,(auto-tagging sem utm),4,2,1,1,1
+2026-09-19,Paid Search,mobile,br_search_conta-digital_brand,116,93,2,2,1
+2026-09-19,Paid Search,mobile,br_search_conta-digital_generic,135,98,7,7,5
+2026-09-19,Paid Search,mobile,br_social_conta-digital_jovens,3,1,0,0,0
+2026-09-19,Paid Search,mobile,br_social_investimentos_remarketing,7,4,0,0,0
+2026-09-19,Paid Social,desktop,br_social_conta-digital_jovens,13,4,0,0,0
+2026-09-19,Paid Social,desktop,br_social_conta-digital_prospecting,18,9,0,0,0
+2026-09-19,Paid Social,desktop,br_social_investimentos_remarketing,178,102,4,4,1
+2026-09-19,Paid Social,mobile,br_social_conta-digital_jovens,185,86,5,5,0
+2026-09-19,Paid Social,mobile,br_social_conta-digital_prospecting,129,68,0,0,0
+2026-09-19,Paid Social,mobile,br_social_investimentos_remarketing,535,352,14,14,6
+2026-09-19,Referral,desktop,,20,10,0,0,0
+2026-09-19,Referral,mobile,,25,12,0,0,0
+2026-09-20,Afiliados,desktop,br_affiliate_cashback,19,13,4,4,2
+2026-09-20,Afiliados,mobile,br_affiliate_cashback,98,69,4,4,3
+2026-09-20,CRM / E-mail,desktop,br_crm_investimentos_newsletter,146,120,14,14,6
+2026-09-20,CRM / E-mail,mobile,br_crm_investimentos_newsletter,230,195,10,10,4
+2026-09-20,Direct,desktop,,637,484,34,34,19
+2026-09-20,Direct,mobile,,1018,795,56,56,33
+2026-09-20,Influenciadores,desktop,br_influencer_financas-pessoais,14,8,0,0,0
+2026-09-20,Influenciadores,mobile,br_influencer_financas-pessoais,106,66,1,1,1
+2026-09-20,Organic Search,desktop,,128,83,6,6,3
+2026-09-20,Organic Search,mobile,,155,100,5,5,2
+2026-09-20,Paid Search,desktop,(auto-tagging sem utm),3,3,1,1,1
+2026-09-20,Paid Search,desktop,br_search_conta-digital_brand,84,66,3,3,3
+2026-09-20,Paid Search,desktop,br_search_conta-digital_generic,80,61,5,5,2
+2026-09-20,Paid Search,desktop,br_social_investimentos_remarketing,2,1,1,1,0
+2026-09-20,Paid Search,mobile,(auto-tagging sem utm),8,7,0,0,0
+2026-09-20,Paid Search,mobile,br_search_conta-digital_brand,139,102,7,7,4
+2026-09-20,Paid Search,mobile,br_search_conta-digital_generic,128,102,11,11,6
+2026-09-20,Paid Search,mobile,br_social_conta-digital_jovens,4,3,0,0,0
+2026-09-20,Paid Search,mobile,br_social_conta-digital_prospecting,1,1,1,1,0
+2026-09-20,Paid Search,mobile,br_social_investimentos_remarketing,4,2,0,0,0
+2026-09-20,Paid Social,desktop,br_social_conta-digital_jovens,10,7,0,0,0
+2026-09-20,Paid Social,desktop,br_social_conta-digital_prospecting,18,9,0,0,0
+2026-09-20,Paid Social,desktop,br_social_investimentos_remarketing,188,110,4,4,2
+2026-09-20,Paid Social,mobile,br_social_conta-digital_jovens,182,98,4,4,2
+2026-09-20,Paid Social,mobile,br_social_conta-digital_prospecting,107,66,1,1,1
+2026-09-20,Paid Social,mobile,br_social_investimentos_remarketing,462,296,10,10,2
+2026-09-20,Referral,desktop,,21,15,2,2,1
+2026-09-20,Referral,mobile,,27,21,1,1,1
+2026-09-21,Afiliados,desktop,br_affiliate_cashback,22,11,0,0,0
+2026-09-21,Afiliados,mobile,br_affiliate_cashback,100,68,4,4,1
+2026-09-21,CRM / E-mail,desktop,br_crm_investimentos_newsletter,143,115,12,12,9
+2026-09-21,CRM / E-mail,mobile,br_crm_investimentos_newsletter,210,173,16,16,10
+2026-09-21,Direct,desktop,,627,470,33,33,24
+2026-09-21,Direct,mobile,,1039,793,49,49,23
+2026-09-21,Influenciadores,desktop,br_influencer_financas-pessoais,5,1,0,0,0
+2026-09-21,Influenciadores,mobile,br_influencer_financas-pessoais,98,64,3,3,2
+2026-09-21,Organic Search,desktop,,114,82,8,8,6
+2026-09-21,Organic Search,mobile,,186,129,5,5,4
+2026-09-21,Paid Search,desktop,(auto-tagging sem utm),7,6,0,0,0
+2026-09-21,Paid Search,desktop,br_search_conta-digital_brand,75,57,5,5,4
+2026-09-21,Paid Search,desktop,br_search_conta-digital_generic,90,66,2,2,1
+2026-09-21,Paid Search,desktop,br_social_investimentos_remarketing,4,4,0,0,0
+2026-09-21,Paid Search,mobile,(auto-tagging sem utm),4,3,0,0,0
+2026-09-21,Paid Search,mobile,br_search_conta-digital_brand,112,90,10,10,8
+2026-09-21,Paid Search,mobile,br_search_conta-digital_generic,148,113,8,8,2
+2026-09-21,Paid Search,mobile,br_social_conta-digital_jovens,2,0,0,0,0
+2026-09-21,Paid Search,mobile,br_social_conta-digital_prospecting,3,2,0,0,0
+2026-09-21,Paid Search,mobile,br_social_investimentos_remarketing,8,5,1,1,0
+2026-09-21,Paid Social,desktop,br_social_conta-digital_jovens,7,3,1,1,1
+2026-09-21,Paid Social,desktop,br_social_conta-digital_prospecting,16,10,0,0,0
+2026-09-21,Paid Social,desktop,br_social_investimentos_remarketing,212,130,7,7,1
+2026-09-21,Paid Social,mobile,br_social_conta-digital_jovens,175,103,2,2,2
+2026-09-21,Paid Social,mobile,br_social_conta-digital_prospecting,128,72,0,0,0
+2026-09-21,Paid Social,mobile,br_social_investimentos_remarketing,490,325,13,13,4
+2026-09-21,Referral,desktop,,27,18,0,0,0
+2026-09-21,Referral,mobile,,34,17,0,0,0
+2026-09-22,Afiliados,desktop,br_affiliate_cashback,23,14,0,0,0
+2026-09-22,Afiliados,mobile,br_affiliate_cashback,109,63,5,5,3
+2026-09-22,CRM / E-mail,desktop,br_crm_investimentos_newsletter,131,106,7,7,6
+2026-09-22,CRM / E-mail,mobile,br_crm_investimentos_newsletter,228,200,10,10,4
+2026-09-22,Direct,desktop,,581,440,30,30,18
+2026-09-22,Direct,mobile,,1054,804,69,69,36
+2026-09-22,Influenciadores,desktop,br_influencer_financas-pessoais,16,12,0,0,0
+2026-09-22,Influenciadores,mobile,br_influencer_financas-pessoais,89,49,2,2,2
+2026-09-22,Organic Search,desktop,,119,78,7,7,5
+2026-09-22,Organic Search,mobile,,162,115,6,6,3
+2026-09-22,Paid Search,desktop,(auto-tagging sem utm),4,3,2,2,1
+2026-09-22,Paid Search,desktop,br_search_conta-digital_brand,58,44,3,3,2
+2026-09-22,Paid Search,desktop,br_search_conta-digital_generic,76,55,4,4,2
+2026-09-22,Paid Search,desktop,br_social_conta-digital_jovens,1,0,0,0,0
+2026-09-22,Paid Search,desktop,br_social_investimentos_remarketing,2,1,1,1,1
+2026-09-22,Paid Search,mobile,(auto-tagging sem utm),4,2,0,0,0
+2026-09-22,Paid Search,mobile,br_search_conta-digital_brand,122,93,6,6,3
+2026-09-22,Paid Search,mobile,br_search_conta-digital_generic,122,90,5,5,4
+2026-09-22,Paid Search,mobile,br_social_conta-digital_jovens,8,7,0,0,0
+2026-09-22,Paid Search,mobile,br_social_conta-digital_prospecting,1,0,0,0,0
+2026-09-22,Paid Search,mobile,br_social_investimentos_remarketing,11,5,0,0,0
+2026-09-22,Paid Social,desktop,br_social_conta-digital_jovens,13,4,1,1,1
+2026-09-22,Paid Social,desktop,br_social_conta-digital_prospecting,23,16,0,0,0
+2026-09-22,Paid Social,desktop,br_social_investimentos_remarketing,176,106,6,6,4
+2026-09-22,Paid Social,mobile,br_social_conta-digital_jovens,162,90,1,1,0
+2026-09-22,Paid Social,mobile,br_social_conta-digital_prospecting,114,69,3,3,0
+2026-09-22,Paid Social,mobile,br_social_investimentos_remarketing,509,322,19,19,9
+2026-09-22,Referral,desktop,,14,10,0,0,0
+2026-09-22,Referral,mobile,,35,27,1,1,1
+2026-09-23,Afiliados,desktop,br_affiliate_cashback,26,19,0,0,0
+2026-09-23,Afiliados,mobile,br_affiliate_cashback,88,59,4,4,1
+2026-09-23,CRM / E-mail,desktop,br_crm_investimentos_newsletter,132,99,7,7,5
+2026-09-23,CRM / E-mail,mobile,br_crm_investimentos_newsletter,214,182,13,13,8
+2026-09-23,Direct,desktop,,647,490,44,44,22
+2026-09-23,Direct,mobile,,993,740,51,51,30
+2026-09-23,Influenciadores,desktop,br_influencer_financas-pessoais,8,7,0,0,0
+2026-09-23,Influenciadores,mobile,br_influencer_financas-pessoais,68,41,4,4,2
+2026-09-23,Organic Search,desktop,,105,78,6,6,5
+2026-09-23,Organic Search,mobile,,151,110,5,5,3
+2026-09-23,Paid Search,desktop,(auto-tagging sem utm),4,2,0,0,0
+2026-09-23,Paid Search,desktop,br_search_conta-digital_brand,71,59,4,4,2
+2026-09-23,Paid Search,desktop,br_search_conta-digital_generic,63,45,1,1,1
+2026-09-23,Paid Search,desktop,br_social_conta-digital_jovens,1,0,0,0,0
+2026-09-23,Paid Search,desktop,br_social_investimentos_remarketing,3,3,0,0,0
+2026-09-23,Paid Search,mobile,(auto-tagging sem utm),6,4,0,0,0
+2026-09-23,Paid Search,mobile,br_search_conta-digital_brand,138,103,2,2,1
+2026-09-23,Paid Search,mobile,br_search_conta-digital_generic,140,108,4,4,0
+2026-09-23,Paid Search,mobile,br_social_conta-digital_jovens,3,3,0,0,0
+2026-09-23,Paid Search,mobile,br_social_conta-digital_prospecting,3,2,0,0,0
+2026-09-23,Paid Search,mobile,br_social_investimentos_remarketing,7,5,1,1,1
+2026-09-23,Paid Social,desktop,br_social_conta-digital_jovens,15,6,0,0,0
+2026-09-23,Paid Social,desktop,br_social_conta-digital_prospecting,17,8,0,0,0
+2026-09-23,Paid Social,desktop,br_social_investimentos_remarketing,194,126,6,6,2
+2026-09-23,Paid Social,mobile,br_social_conta-digital_jovens,176,84,2,2,1
+2026-09-23,Paid Social,mobile,br_social_conta-digital_prospecting,154,91,3,3,2
+2026-09-23,Paid Social,mobile,br_social_investimentos_remarketing,534,340,11,11,5
+2026-09-23,Referral,desktop,,21,11,0,0,0
+2026-09-23,Referral,mobile,,37,20,0,0,0
+2026-09-24,Afiliados,desktop,br_affiliate_cashback,35,23,1,1,1
+2026-09-24,Afiliados,mobile,br_affiliate_cashback,88,54,7,7,5
+2026-09-24,CRM / E-mail,desktop,br_crm_investimentos_newsletter,137,111,8,8,3
+2026-09-24,CRM / E-mail,mobile,br_crm_investimentos_newsletter,213,182,19,19,11
+2026-09-24,Direct,desktop,,619,476,32,32,20
+2026-09-24,Direct,mobile,,1072,813,58,58,27
+2026-09-24,Influenciadores,desktop,br_influencer_financas-pessoais,11,10,0,0,0
+2026-09-24,Influenciadores,mobile,br_influencer_financas-pessoais,94,68,3,3,1
+2026-09-24,Organic Search,desktop,,109,69,2,2,1
+2026-09-24,Organic Search,mobile,,168,120,11,11,2
+2026-09-24,Paid Search,desktop,(auto-tagging sem utm),4,3,0,0,0
+2026-09-24,Paid Search,desktop,br_search_conta-digital_brand,76,60,3,3,2
+2026-09-24,Paid Search,desktop,br_search_conta-digital_generic,88,64,5,5,2
+2026-09-24,Paid Search,desktop,br_social_investimentos_remarketing,4,3,0,0,0
+2026-09-24,Paid Search,mobile,(auto-tagging sem utm),9,4,0,0,0
+2026-09-24,Paid Search,mobile,br_search_conta-digital_brand,115,85,6,6,3
+2026-09-24,Paid Search,mobile,br_search_conta-digital_generic,111,87,7,7,4
+2026-09-24,Paid Search,mobile,br_social_conta-digital_jovens,4,3,0,0,0
+2026-09-24,Paid Search,mobile,br_social_conta-digital_prospecting,4,3,0,0,0
+2026-09-24,Paid Search,mobile,br_social_investimentos_remarketing,14,7,1,1,1
+2026-09-24,Paid Social,desktop,br_social_conta-digital_jovens,16,7,0,0,0
+2026-09-24,Paid Social,desktop,br_social_conta-digital_prospecting,24,14,1,1,0
+2026-09-24,Paid Social,desktop,br_social_investimentos_remarketing,198,132,6,6,3
+2026-09-24,Paid Social,mobile,br_social_conta-digital_jovens,155,74,1,1,0
+2026-09-24,Paid Social,mobile,br_social_conta-digital_prospecting,144,96,1,1,0
+2026-09-24,Paid Social,mobile,br_social_investimentos_remarketing,502,325,13,13,10
+2026-09-24,Referral,desktop,,27,21,1,1,0
+2026-09-24,Referral,mobile,,30,21,4,4,1
+2026-09-25,Afiliados,desktop,br_affiliate_cashback,31,17,0,0,0
+2026-09-25,Afiliados,mobile,br_affiliate_cashback,97,69,6,6,4
+2026-09-25,CRM / E-mail,desktop,br_crm_investimentos_newsletter,123,100,3,3,1
+2026-09-25,CRM / E-mail,mobile,br_crm_investimentos_newsletter,215,172,16,16,7
+2026-09-25,Direct,desktop,,635,493,35,35,21
+2026-09-25,Direct,mobile,,1012,771,44,44,24
+2026-09-25,Influenciadores,desktop,br_influencer_financas-pessoais,9,7,0,0,0
+2026-09-25,Influenciadores,mobile,br_influencer_financas-pessoais,76,48,3,3,2
+2026-09-25,Organic Search,desktop,,117,80,6,6,1
+2026-09-25,Organic Search,mobile,,157,98,4,4,1
+2026-09-25,Paid Search,desktop,(auto-tagging sem utm),4,3,0,0,0
+2026-09-25,Paid Search,desktop,br_search_conta-digital_brand,77,59,4,4,3
+2026-09-25,Paid Search,desktop,br_search_conta-digital_generic,77,65,0,0,0
+2026-09-25,Paid Search,desktop,br_social_investimentos_remarketing,5,3,0,0,0
+2026-09-25,Paid Search,mobile,(auto-tagging sem utm),11,9,0,0,0
+2026-09-25,Paid Search,mobile,br_search_conta-digital_brand,120,91,8,8,6
+2026-09-25,Paid Search,mobile,br_search_conta-digital_generic,118,97,10,10,5
+2026-09-25,Paid Search,mobile,br_social_conta-digital_jovens,3,3,0,0,0
+2026-09-25,Paid Search,mobile,br_social_conta-digital_prospecting,1,1,0,0,0
+2026-09-25,Paid Search,mobile,br_social_investimentos_remarketing,6,2,0,0,0
+2026-09-25,Paid Social,desktop,br_social_conta-digital_jovens,16,12,1,1,0
+2026-09-25,Paid Social,desktop,br_social_conta-digital_prospecting,15,10,0,0,0
+2026-09-25,Paid Social,desktop,br_social_investimentos_remarketing,207,122,3,3,2
+2026-09-25,Paid Social,mobile,br_social_conta-digital_jovens,164,74,2,2,0
+2026-09-25,Paid Social,mobile,br_social_conta-digital_prospecting,122,72,3,3,1
+2026-09-25,Paid Social,mobile,br_social_investimentos_remarketing,532,355,22,22,14
+2026-09-25,Referral,desktop,,26,16,0,0,0
+2026-09-25,Referral,mobile,,37,18,0,0,0
+2026-09-26,Afiliados,desktop,br_affiliate_cashback,29,23,1,1,1
+2026-09-26,Afiliados,mobile,br_affiliate_cashback,82,56,3,3,3
+2026-09-26,CRM / E-mail,desktop,br_crm_investimentos_newsletter,118,96,9,9,7
+2026-09-26,CRM / E-mail,mobile,br_crm_investimentos_newsletter,189,153,12,12,6
+2026-09-26,Direct,desktop,,645,480,33,33,24
+2026-09-26,Direct,mobile,,1004,760,46,46,25
+2026-09-26,Influenciadores,desktop,br_influencer_financas-pessoais,10,7,1,1,0
+2026-09-26,Influenciadores,mobile,br_influencer_financas-pessoais,109,67,6,6,1
+2026-09-26,Organic Search,desktop,,130,85,2,2,1
+2026-09-26,Organic Search,mobile,,184,117,7,7,5
+2026-09-26,Paid Search,desktop,(auto-tagging sem utm),1,0,0,0,0
+2026-09-26,Paid Search,desktop,br_search_conta-digital_brand,86,59,4,4,3
+2026-09-26,Paid Search,desktop,br_search_conta-digital_generic,70,51,3,3,1
+2026-09-26,Paid Search,desktop,br_social_investimentos_remarketing,1,0,0,0,0
+2026-09-26,Paid Search,mobile,(auto-tagging sem utm),5,3,1,1,0
+2026-09-26,Paid Search,mobile,br_search_conta-digital_brand,120,91,7,7,5
+2026-09-26,Paid Search,mobile,br_search_conta-digital_generic,116,85,5,5,1
+2026-09-26,Paid Search,mobile,br_social_conta-digital_jovens,3,2,0,0,0
+2026-09-26,Paid Search,mobile,br_social_conta-digital_prospecting,1,0,0,0,0
+2026-09-26,Paid Search,mobile,br_social_investimentos_remarketing,4,4,1,1,1
+2026-09-26,Paid Social,desktop,br_social_conta-digital_jovens,21,14,2,2,1
+2026-09-26,Paid Social,desktop,br_social_conta-digital_prospecting,18,8,0,0,0
+2026-09-26,Paid Social,desktop,br_social_investimentos_remarketing,211,139,7,7,2
+2026-09-26,Paid Social,mobile,br_social_conta-digital_jovens,158,84,3,3,1
+2026-09-26,Paid Social,mobile,br_social_conta-digital_prospecting,120,67,7,7,3
+2026-09-26,Paid Social,mobile,br_social_investimentos_remarketing,480,295,15,15,6
+2026-09-26,Referral,desktop,,19,12,0,0,0
+2026-09-26,Referral,mobile,,39,23,0,0,0
+2026-09-27,Afiliados,desktop,br_affiliate_cashback,34,17,1,1,1
+2026-09-27,Afiliados,mobile,br_affiliate_cashback,100,76,6,6,3
+2026-09-27,CRM / E-mail,desktop,br_crm_investimentos_newsletter,128,100,8,8,4
+2026-09-27,CRM / E-mail,mobile,br_crm_investimentos_newsletter,222,173,14,14,8
+2026-09-27,Direct,desktop,,617,453,39,39,26
+2026-09-27,Direct,mobile,,981,721,54,54,34
+2026-09-27,Influenciadores,desktop,br_influencer_financas-pessoais,20,10,0,0,0
+2026-09-27,Influenciadores,mobile,br_influencer_financas-pessoais,72,42,2,2,0
+2026-09-27,Organic Search,desktop,,106,79,4,4,2
+2026-09-27,Organic Search,mobile,,149,90,5,5,1
+2026-09-27,Paid Search,desktop,(auto-tagging sem utm),8,7,1,1,1
+2026-09-27,Paid Search,desktop,br_search_conta-digital_brand,72,55,4,4,3
+2026-09-27,Paid Search,desktop,br_search_conta-digital_generic,86,58,3,3,2
+2026-09-27,Paid Search,desktop,br_social_investimentos_remarketing,2,1,0,0,0
+2026-09-27,Paid Search,mobile,(auto-tagging sem utm),9,6,1,1,1
+2026-09-27,Paid Search,mobile,br_search_conta-digital_brand,104,75,7,7,3
+2026-09-27,Paid Search,mobile,br_search_conta-digital_generic,131,99,7,7,3
+2026-09-27,Paid Search,mobile,br_social_conta-digital_jovens,1,1,0,0,0
+2026-09-27,Paid Search,mobile,br_social_conta-digital_prospecting,1,1,0,0,0
+2026-09-27,Paid Search,mobile,br_social_investimentos_remarketing,9,5,0,0,0
+2026-09-27,Paid Social,desktop,br_social_conta-digital_jovens,10,5,0,0,0
+2026-09-27,Paid Social,desktop,br_social_conta-digital_prospecting,26,18,0,0,0
+2026-09-27,Paid Social,desktop,br_social_investimentos_remarketing,206,138,5,5,2
+2026-09-27,Paid Social,mobile,br_social_conta-digital_jovens,175,89,0,0,0
+2026-09-27,Paid Social,mobile,br_social_conta-digital_prospecting,130,77,6,6,1
+2026-09-27,Paid Social,mobile,br_social_investimentos_remarketing,536,345,13,13,8
+2026-09-27,Referral,desktop,,14,10,0,0,0
+2026-09-27,Referral,mobile,,42,23,1,1,1
+2026-09-28,Afiliados,desktop,br_affiliate_cashback,38,24,3,3,1
+2026-09-28,Afiliados,mobile,br_affiliate_cashback,104,66,1,1,1
+2026-09-28,CRM / E-mail,desktop,br_crm_investimentos_newsletter,132,98,6,6,5
+2026-09-28,CRM / E-mail,mobile,br_crm_investimentos_newsletter,228,189,15,15,10
+2026-09-28,Direct,desktop,,601,452,37,37,25
+2026-09-28,Direct,mobile,,1027,769,46,46,25
+2026-09-28,Influenciadores,desktop,br_influencer_financas-pessoais,15,10,0,0,0
+2026-09-28,Influenciadores,mobile,br_influencer_financas-pessoais,99,69,5,5,4
+2026-09-28,Organic Search,desktop,,119,76,5,5,2
+2026-09-28,Organic Search,mobile,,178,132,7,7,1
+2026-09-28,Paid Search,desktop,(auto-tagging sem utm),3,3,0,0,0
+2026-09-28,Paid Search,desktop,br_search_conta-digital_brand,80,65,2,2,1
+2026-09-28,Paid Search,desktop,br_search_conta-digital_generic,72,53,5,5,4
+2026-09-28,Paid Search,desktop,br_social_investimentos_remarketing,6,0,0,0,0
+2026-09-28,Paid Search,mobile,(auto-tagging sem utm),11,4,0,0,0
+2026-09-28,Paid Search,mobile,br_search_conta-digital_brand,126,94,7,7,3
+2026-09-28,Paid Search,mobile,br_search_conta-digital_generic,112,85,4,4,2
+2026-09-28,Paid Search,mobile,br_social_conta-digital_jovens,1,0,0,0,0
+2026-09-28,Paid Search,mobile,br_social_conta-digital_prospecting,5,5,0,0,0
+2026-09-28,Paid Search,mobile,br_social_investimentos_remarketing,6,5,0,0,0
+2026-09-28,Paid Social,desktop,br_social_conta-digital_jovens,15,9,0,0,0
+2026-09-28,Paid Social,desktop,br_social_conta-digital_prospecting,20,10,1,1,1
+2026-09-28,Paid Social,desktop,br_social_investimentos_remarketing,209,138,7,7,5
+2026-09-28,Paid Social,mobile,br_social_conta-digital_jovens,144,70,4,4,2
+2026-09-28,Paid Social,mobile,br_social_conta-digital_prospecting,124,76,5,5,3
+2026-09-28,Paid Social,mobile,br_social_investimentos_remarketing,562,359,16,16,7
+2026-09-28,Referral,desktop,,16,10,0,0,0
+2026-09-28,Referral,mobile,,37,20,0,0,0
+2026-09-29,Afiliados,desktop,br_affiliate_cashback,31,24,0,0,0
+2026-09-29,Afiliados,mobile,br_affiliate_cashback,63,38,1,1,1
+2026-09-29,CRM / E-mail,desktop,br_crm_investimentos_newsletter,137,112,7,7,6
+2026-09-29,CRM / E-mail,mobile,br_crm_investimentos_newsletter,217,179,10,10,4
+2026-09-29,Direct,desktop,,623,472,28,28,13
+2026-09-29,Direct,mobile,,1024,783,54,54,24
+2026-09-29,Influenciadores,desktop,br_influencer_financas-pessoais,7,5,0,0,0
+2026-09-29,Influenciadores,mobile,br_influencer_financas-pessoais,81,52,3,3,1
+2026-09-29,Organic Search,desktop,,113,63,4,4,3
+2026-09-29,Organic Search,mobile,,140,99,6,6,4
+2026-09-29,Paid Search,desktop,(auto-tagging sem utm),1,1,0,0,0
+2026-09-29,Paid Search,desktop,br_search_conta-digital_brand,88,67,5,5,3
+2026-09-29,Paid Search,desktop,br_search_conta-digital_generic,78,63,6,6,5
+2026-09-29,Paid Search,desktop,br_social_conta-digital_jovens,2,0,0,0,0
+2026-09-29,Paid Search,desktop,br_social_conta-digital_prospecting,1,1,0,0,0
+2026-09-29,Paid Search,desktop,br_social_investimentos_remarketing,2,2,0,0,0
+2026-09-29,Paid Search,mobile,(auto-tagging sem utm),8,6,0,0,0
+2026-09-29,Paid Search,mobile,br_search_conta-digital_brand,115,90,7,7,2
+2026-09-29,Paid Search,mobile,br_search_conta-digital_generic,121,84,6,6,1
+2026-09-29,Paid Search,mobile,br_social_conta-digital_jovens,3,3,0,0,0
+2026-09-29,Paid Search,mobile,br_social_conta-digital_prospecting,1,0,0,0,0
+2026-09-29,Paid Search,mobile,br_social_investimentos_remarketing,7,7,1,1,0
+2026-09-29,Paid Social,desktop,br_social_conta-digital_jovens,14,7,0,0,0
+2026-09-29,Paid Social,desktop,br_social_conta-digital_prospecting,10,6,0,0,0
+2026-09-29,Paid Social,desktop,br_social_investimentos_remarketing,185,110,3,3,1
+2026-09-29,Paid Social,mobile,br_social_conta-digital_jovens,183,80,1,1,1
+2026-09-29,Paid Social,mobile,br_social_conta-digital_prospecting,127,71,5,5,3
+2026-09-29,Paid Social,mobile,br_social_investimentos_remarketing,540,336,12,12,6
+2026-09-29,Referral,desktop,,28,18,1,1,1
+2026-09-29,Referral,mobile,,38,24,1,1,0
+2026-09-30,Afiliados,desktop,br_affiliate_cashback,39,34,0,0,0
+2026-09-30,Afiliados,mobile,br_affiliate_cashback,104,72,5,5,3
+2026-09-30,CRM / E-mail,desktop,br_crm_investimentos_newsletter,142,119,3,3,2
+2026-09-30,CRM / E-mail,mobile,br_crm_investimentos_newsletter,214,170,14,14,9
+2026-09-30,Direct,desktop,,634,479,29,29,21
+2026-09-30,Direct,mobile,,996,762,47,47,24
+2026-09-30,Influenciadores,desktop,br_influencer_financas-pessoais,13,11,1,1,0
+2026-09-30,Influenciadores,mobile,br_influencer_financas-pessoais,98,67,2,2,0
+2026-09-30,Organic Search,desktop,,101,72,2,2,0
+2026-09-30,Organic Search,mobile,,156,95,4,4,2
+2026-09-30,Paid Search,desktop,(auto-tagging sem utm),3,2,1,1,1
+2026-09-30,Paid Search,desktop,br_search_conta-digital_brand,73,60,4,4,3
+2026-09-30,Paid Search,desktop,br_search_conta-digital_generic,85,63,3,3,2
+2026-09-30,Paid Search,desktop,br_social_conta-digital_prospecting,1,0,0,0,0
+2026-09-30,Paid Search,desktop,br_social_investimentos_remarketing,5,2,0,0,0
+2026-09-30,Paid Search,mobile,(auto-tagging sem utm),4,3,0,0,0
+2026-09-30,Paid Search,mobile,br_search_conta-digital_brand,115,90,9,9,5
+2026-09-30,Paid Search,mobile,br_search_conta-digital_generic,120,80,7,7,3
+2026-09-30,Paid Search,mobile,br_social_conta-digital_jovens,4,0,0,0,0
+2026-09-30,Paid Search,mobile,br_social_conta-digital_prospecting,4,3,0,0,0
+2026-09-30,Paid Search,mobile,br_social_investimentos_remarketing,13,5,0,0,0
+2026-09-30,Paid Social,desktop,br_social_conta-digital_jovens,13,3,0,0,0
+2026-09-30,Paid Social,desktop,br_social_conta-digital_prospecting,23,10,0,0,0
+2026-09-30,Paid Social,desktop,br_social_investimentos_remarketing,198,121,6,6,3
+2026-09-30,Paid Social,mobile,br_social_conta-digital_jovens,177,79,2,2,0
+2026-09-30,Paid Social,mobile,br_social_conta-digital_prospecting,134,89,4,4,2
+2026-09-30,Paid Social,mobile,br_social_investimentos_remarketing,505,308,19,19,6
+2026-09-30,Referral,desktop,,27,18,0,0,0
+2026-09-30,Referral,mobile,,39,21,1,1,0
+2026-10-01,Afiliados,desktop,br_affiliate_cashback,6,6,0,0,0
+2026-10-01,Afiliados,mobile,br_affiliate_cashback,16,10,0,0,0
+2026-10-01,CRM / E-mail,desktop,br_crm_investimentos_newsletter,21,17,1,1,1
+2026-10-01,CRM / E-mail,mobile,br_crm_investimentos_newsletter,35,31,1,1,0
+2026-10-01,Direct,desktop,,111,78,5,5,2
+2026-10-01,Direct,mobile,,175,131,10,10,3
+2026-10-01,Influenciadores,desktop,br_influencer_financas-pessoais,1,1,1,1,1
+2026-10-01,Influenciadores,mobile,br_influencer_financas-pessoais,17,11,2,2,1
+2026-10-01,Organic Search,desktop,,25,16,0,0,0
+2026-10-01,Organic Search,mobile,,24,18,1,1,0
+2026-10-01,Paid Search,desktop,(auto-tagging sem utm),2,1,0,0,0
+2026-10-01,Paid Search,desktop,br_search_conta-digital_brand,18,15,1,1,1
+2026-10-01,Paid Search,desktop,br_search_conta-digital_generic,16,13,1,1,1
+2026-10-01,Paid Search,mobile,(auto-tagging sem utm),3,2,0,0,0
+2026-10-01,Paid Search,mobile,br_search_conta-digital_brand,11,6,0,0,0
+2026-10-01,Paid Search,mobile,br_search_conta-digital_generic,20,16,1,1,1
+2026-10-01,Paid Search,mobile,br_social_conta-digital_jovens,1,0,0,0,0
+2026-10-01,Paid Search,mobile,br_social_investimentos_remarketing,1,1,0,0,0
+2026-10-01,Paid Social,desktop,br_social_conta-digital_jovens,4,2,0,0,0
+2026-10-01,Paid Social,desktop,br_social_conta-digital_prospecting,8,6,0,0,0
+2026-10-01,Paid Social,desktop,br_social_investimentos_remarketing,38,22,1,1,0
+2026-10-01,Paid Social,mobile,br_social_conta-digital_jovens,34,14,0,0,0
+2026-10-01,Paid Social,mobile,br_social_conta-digital_prospecting,32,19,3,3,2
+2026-10-01,Paid Social,mobile,br_social_investimentos_remarketing,92,56,2,2,2
+2026-10-01,Referral,desktop,,4,1,0,0,0
+2026-10-01,Referral,mobile,,6,4,0,0,0

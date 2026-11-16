@@ -1,0 +1,159 @@
+{
+  "exportFormatVersion": 2,
+  "exportTime": "2026-11-15 12:00:00",
+  "containerVersion": {
+    "accountId": "0",
+    "containerId": "0",
+    "containerVersionId": "0",
+    "name": "Banco Aurum (fictício) - Web - onboarding v1",
+    "description": "Tags GA4, Google Ads e Meta Pixel do funil de abertura de conta, com Consent Mode v2. Troque os IDs G-XXXXXXX, AW-XXXXXXX e o Pixel ID.",
+    "container": {
+      "accountId": "0",
+      "containerId": "0",
+      "name": "aurum-web",
+      "publicId": "GTM-XXXXXXX",
+      "usageContext": ["WEB"]
+    },
+    "variable": [
+      {"variableId": "1", "name": "CONST - GA4 Measurement ID", "type": "c",
+       "parameter": [{"type": "TEMPLATE", "key": "value", "value": "G-XXXXXXX"}]},
+      {"variableId": "2", "name": "DLV - form_variant", "type": "v",
+       "parameter": [{"type": "INTEGER", "key": "dataLayerVersion", "value": "2"},
+                     {"type": "BOOLEAN", "key": "setDefaultValue", "value": "false"},
+                     {"type": "TEMPLATE", "key": "name", "value": "form_variant"}]},
+      {"variableId": "3", "name": "DLV - step_number", "type": "v",
+       "parameter": [{"type": "INTEGER", "key": "dataLayerVersion", "value": "2"},
+                     {"type": "TEMPLATE", "key": "name", "value": "step_number"}]},
+      {"variableId": "4", "name": "DLV - step_name", "type": "v",
+       "parameter": [{"type": "INTEGER", "key": "dataLayerVersion", "value": "2"},
+                     {"type": "TEMPLATE", "key": "name", "value": "step_name"}]},
+      {"variableId": "5", "name": "DLV - error_field", "type": "v",
+       "parameter": [{"type": "INTEGER", "key": "dataLayerVersion", "value": "2"},
+                     {"type": "TEMPLATE", "key": "name", "value": "error_field"}]},
+      {"variableId": "6", "name": "DLV - cta_location", "type": "v",
+       "parameter": [{"type": "INTEGER", "key": "dataLayerVersion", "value": "2"},
+                     {"type": "TEMPLATE", "key": "name", "value": "cta_location"}]},
+      {"variableId": "7", "name": "DLV - user_id", "type": "v",
+       "parameter": [{"type": "INTEGER", "key": "dataLayerVersion", "value": "2"},
+                     {"type": "TEMPLATE", "key": "name", "value": "user_id"}]},
+      {"variableId": "8", "name": "DLV - event_id", "type": "v",
+       "parameter": [{"type": "INTEGER", "key": "dataLayerVersion", "value": "2"},
+                     {"type": "TEMPLATE", "key": "name", "value": "event_id"}]},
+      {"variableId": "9", "name": "DLV - promotion_name", "type": "v",
+       "parameter": [{"type": "INTEGER", "key": "dataLayerVersion", "value": "2"},
+                     {"type": "TEMPLATE", "key": "name", "value": "promotion_name"}]}
+    ],
+    "trigger": [
+      {"triggerId": "101", "name": "CE - begin_onboarding", "type": "CUSTOM_EVENT",
+       "customEventFilter": [{"type": "EQUALS", "parameter": [
+         {"type": "TEMPLATE", "key": "arg0", "value": "{{_event}}"},
+         {"type": "TEMPLATE", "key": "arg1", "value": "begin_onboarding"}]}]},
+      {"triggerId": "102", "name": "CE - onboarding_step_complete", "type": "CUSTOM_EVENT",
+       "customEventFilter": [{"type": "EQUALS", "parameter": [
+         {"type": "TEMPLATE", "key": "arg0", "value": "{{_event}}"},
+         {"type": "TEMPLATE", "key": "arg1", "value": "onboarding_step_complete"}]}]},
+      {"triggerId": "103", "name": "CE - form_error", "type": "CUSTOM_EVENT",
+       "customEventFilter": [{"type": "EQUALS", "parameter": [
+         {"type": "TEMPLATE", "key": "arg0", "value": "{{_event}}"},
+         {"type": "TEMPLATE", "key": "arg1", "value": "form_error"}]}]},
+      {"triggerId": "104", "name": "CE - sign_up", "type": "CUSTOM_EVENT",
+       "customEventFilter": [{"type": "EQUALS", "parameter": [
+         {"type": "TEMPLATE", "key": "arg0", "value": "{{_event}}"},
+         {"type": "TEMPLATE", "key": "arg1", "value": "sign_up"}]}]},
+      {"triggerId": "105", "name": "CE - cta_click", "type": "CUSTOM_EVENT",
+       "customEventFilter": [{"type": "EQUALS", "parameter": [
+         {"type": "TEMPLATE", "key": "arg0", "value": "{{_event}}"},
+         {"type": "TEMPLATE", "key": "arg1", "value": "cta_click"}]}]},
+      {"triggerId": "106", "name": "CE - view_promotion", "type": "CUSTOM_EVENT",
+       "customEventFilter": [{"type": "EQUALS", "parameter": [
+         {"type": "TEMPLATE", "key": "arg0", "value": "{{_event}}"},
+         {"type": "TEMPLATE", "key": "arg1", "value": "view_promotion"}]}]},
+      {"triggerId": "107", "name": "CE - app_download_click", "type": "CUSTOM_EVENT",
+       "customEventFilter": [{"type": "EQUALS", "parameter": [
+         {"type": "TEMPLATE", "key": "arg0", "value": "{{_event}}"},
+         {"type": "TEMPLATE", "key": "arg1", "value": "app_download_click"}]}]}
+    ],
+    "tag": [
+      {"tagId": "201", "name": "GA4 - Google Tag (config)", "type": "googtag",
+       "parameter": [{"type": "TEMPLATE", "key": "tagId", "value": "{{CONST - GA4 Measurement ID}}"},
+                     {"type": "LIST", "key": "configSettingsTable", "list": [
+                       {"type": "MAP", "map": [{"type": "TEMPLATE", "key": "parameter", "value": "user_id"},
+                                               {"type": "TEMPLATE", "key": "parameterValue", "value": "{{DLV - user_id}}"}]},
+                       {"type": "MAP", "map": [{"type": "TEMPLATE", "key": "parameter", "value": "server_container_url"},
+                                               {"type": "TEMPLATE", "key": "parameterValue", "value": "https://sgtm.aurum.example.com.br"}]}]}],
+       "firingTriggerId": ["2147479553"],
+       "consentSettings": {"consentStatus": "NEEDED", "consentType": {"type": "LIST", "list": [{"type": "TEMPLATE", "value": "analytics_storage"}]}}},
+      {"tagId": "202", "name": "GA4 - Evento - begin_onboarding", "type": "gaawe",
+       "parameter": [{"type": "TEMPLATE", "key": "eventName", "value": "begin_onboarding"},
+                     {"type": "TEMPLATE", "key": "measurementIdOverride", "value": "{{CONST - GA4 Measurement ID}}"},
+                     {"type": "LIST", "key": "eventSettingsTable", "list": [
+                       {"type": "MAP", "map": [{"type": "TEMPLATE", "key": "parameter", "value": "form_variant"},
+                                               {"type": "TEMPLATE", "key": "parameterValue", "value": "{{DLV - form_variant}}"}]},
+                       {"type": "MAP", "map": [{"type": "TEMPLATE", "key": "parameter", "value": "experiment_onboarding"},
+                                               {"type": "TEMPLATE", "key": "parameterValue", "value": "{{DLV - form_variant}}"}]}]}],
+       "firingTriggerId": ["101"]},
+      {"tagId": "203", "name": "GA4 - Evento - onboarding_step_complete", "type": "gaawe",
+       "parameter": [{"type": "TEMPLATE", "key": "eventName", "value": "onboarding_step_complete"},
+                     {"type": "TEMPLATE", "key": "measurementIdOverride", "value": "{{CONST - GA4 Measurement ID}}"},
+                     {"type": "LIST", "key": "eventSettingsTable", "list": [
+                       {"type": "MAP", "map": [{"type": "TEMPLATE", "key": "parameter", "value": "step_number"},
+                                               {"type": "TEMPLATE", "key": "parameterValue", "value": "{{DLV - step_number}}"}]},
+                       {"type": "MAP", "map": [{"type": "TEMPLATE", "key": "parameter", "value": "step_name"},
+                                               {"type": "TEMPLATE", "key": "parameterValue", "value": "{{DLV - step_name}}"}]},
+                       {"type": "MAP", "map": [{"type": "TEMPLATE", "key": "parameter", "value": "form_variant"},
+                                               {"type": "TEMPLATE", "key": "parameterValue", "value": "{{DLV - form_variant}}"}]}]}],
+       "firingTriggerId": ["102"]},
+      {"tagId": "204", "name": "GA4 - Evento - form_error", "type": "gaawe",
+       "parameter": [{"type": "TEMPLATE", "key": "eventName", "value": "form_error"},
+                     {"type": "TEMPLATE", "key": "measurementIdOverride", "value": "{{CONST - GA4 Measurement ID}}"},
+                     {"type": "LIST", "key": "eventSettingsTable", "list": [
+                       {"type": "MAP", "map": [{"type": "TEMPLATE", "key": "parameter", "value": "step_number"},
+                                               {"type": "TEMPLATE", "key": "parameterValue", "value": "{{DLV - step_number}}"}]},
+                       {"type": "MAP", "map": [{"type": "TEMPLATE", "key": "parameter", "value": "error_field"},
+                                               {"type": "TEMPLATE", "key": "parameterValue", "value": "{{DLV - error_field}}"}]}]}],
+       "firingTriggerId": ["103"]},
+      {"tagId": "205", "name": "GA4 - Evento - sign_up", "type": "gaawe",
+       "parameter": [{"type": "TEMPLATE", "key": "eventName", "value": "sign_up"},
+                     {"type": "TEMPLATE", "key": "measurementIdOverride", "value": "{{CONST - GA4 Measurement ID}}"},
+                     {"type": "LIST", "key": "eventSettingsTable", "list": [
+                       {"type": "MAP", "map": [{"type": "TEMPLATE", "key": "parameter", "value": "method"},
+                                               {"type": "TEMPLATE", "key": "parameterValue", "value": "onboarding_web"}]},
+                       {"type": "MAP", "map": [{"type": "TEMPLATE", "key": "parameter", "value": "form_variant"},
+                                               {"type": "TEMPLATE", "key": "parameterValue", "value": "{{DLV - form_variant}}"}]}]}],
+       "firingTriggerId": ["104"]},
+      {"tagId": "206", "name": "GA4 - Evento - cta_click", "type": "gaawe",
+       "parameter": [{"type": "TEMPLATE", "key": "eventName", "value": "cta_click"},
+                     {"type": "TEMPLATE", "key": "measurementIdOverride", "value": "{{CONST - GA4 Measurement ID}}"},
+                     {"type": "LIST", "key": "eventSettingsTable", "list": [
+                       {"type": "MAP", "map": [{"type": "TEMPLATE", "key": "parameter", "value": "cta_location"},
+                                               {"type": "TEMPLATE", "key": "parameterValue", "value": "{{DLV - cta_location}}"}]}]}],
+       "firingTriggerId": ["105"]},
+      {"tagId": "207", "name": "GA4 - Evento - view_promotion", "type": "gaawe",
+       "parameter": [{"type": "TEMPLATE", "key": "eventName", "value": "view_promotion"},
+                     {"type": "TEMPLATE", "key": "measurementIdOverride", "value": "{{CONST - GA4 Measurement ID}}"},
+                     {"type": "LIST", "key": "eventSettingsTable", "list": [
+                       {"type": "MAP", "map": [{"type": "TEMPLATE", "key": "parameter", "value": "promotion_name"},
+                                               {"type": "TEMPLATE", "key": "parameterValue", "value": "{{DLV - promotion_name}}"}]}]}],
+       "firingTriggerId": ["106"]},
+      {"tagId": "208", "name": "Google Ads - Conversão - sign_up", "type": "awct",
+       "parameter": [{"type": "TEMPLATE", "key": "conversionId", "value": "XXXXXXXXX"},
+                     {"type": "TEMPLATE", "key": "conversionLabel", "value": "cadastro_conta"},
+                     {"type": "TEMPLATE", "key": "orderId", "value": "{{DLV - event_id}}"}],
+       "firingTriggerId": ["104"],
+       "consentSettings": {"consentStatus": "NEEDED", "consentType": {"type": "LIST", "list": [
+         {"type": "TEMPLATE", "value": "ad_storage"}, {"type": "TEMPLATE", "value": "ad_user_data"}]}}},
+      {"tagId": "209", "name": "Meta Pixel - Base + CompleteRegistration", "type": "html",
+       "parameter": [{"type": "TEMPLATE", "key": "html",
+                      "value": "<script>\n!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');\nfbq('init','PIXEL_ID');\n// event_id igual ao enviado pela Conversions API (server-side) para deduplicar\nfbq('track','CompleteRegistration',{content_name:'conta_digital'},{eventID:'{{DLV - event_id}}'});\n</script>"},
+                     {"type": "BOOLEAN", "key": "supportDocumentWrite", "value": "false"}],
+       "firingTriggerId": ["104"],
+       "consentSettings": {"consentStatus": "NEEDED", "consentType": {"type": "LIST", "list": [
+         {"type": "TEMPLATE", "value": "ad_storage"}, {"type": "TEMPLATE", "value": "ad_personalization"}]}}}
+    ],
+    "builtInVariable": [
+      {"accountId": "0", "containerId": "0", "type": "PAGE_URL", "name": "Page URL"},
+      {"accountId": "0", "containerId": "0", "type": "PAGE_PATH", "name": "Page Path"},
+      {"accountId": "0", "containerId": "0", "type": "EVENT", "name": "Event"}
+    ]
+  }
+}
