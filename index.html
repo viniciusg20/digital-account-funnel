@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Banco Aurum (fictício) · Demo de tracking</title>
+<meta name="description" content="Landing page de demonstração com dataLayer, Consent Mode v2 e eventos GA4 de onboarding. Banco fictício.">
+<link rel="stylesheet" href="style.css">
+
+<!-- 1) Consent Mode v2: tudo negado por padrão até o usuário escolher (LGPD) -->
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){ dataLayer.push(arguments); }
+  gtag('consent', 'default', {
+    ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied',
+    analytics_storage: 'denied', functionality_storage: 'granted', security_storage: 'granted',
+    wait_for_update: 500
+  });
+</script>
+
+<!-- 2) Google Tag Manager: troque GTM-XXXXXXX pelo seu container (ver tracking/gtm/container_web.json).
+     Fica comentado na demo para não carregar um container inexistente. -->
+<!--
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;
+j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-XXXXXXX');</script>
+-->
+</head>
+<body>
+<div class="aviso-demo">Demonstração de portfólio · banco fictício · nenhum dado digitado sai do seu navegador</div>
+
+<header class="topo">
+  <div class="marca"><span class="logo">A</span> Banco Aurum</div>
+  <nav>
+    <a href="#conta" data-nav="conta_digital">Conta digital</a>
+    <a href="#investimentos" data-nav="investimentos">Investimentos</a>
+    <button class="btn btn-sm" data-cta="header">Abrir minha conta</button>
+  </nav>
+</header>
+
+<main>
+  <section class="hero" id="conta">
+    <div>
+      <p class="selo" data-promo="cdb_120_cdi">CDB com liquidez diária rendendo 120% do CDI</p>
+      <h1>Conta digital gratuita com investimentos que rendem desde o primeiro dia</h1>
+      <p class="sub">Abra em minutos pelo celular. Sem tarifa de manutenção, Pix ilimitado e acesso a CDBs, Tesouro e fundos.</p>
+      <div class="acoes">
+        <button class="btn" data-cta="hero">Abrir minha conta</button>
+        <button class="btn btn-sec" data-app="banner_app">Baixar o app</button>
+      </div>
+    </div>
+    <div class="cartao-hero" aria-hidden="true">
+      <div class="cartao"><span>AURUM</span><span>•••• 2026</span></div>
+    </div>
+  </section>
+
+  <section class="beneficios" id="investimentos">
+    <article><h3>Rende mais que a poupança</h3><p>Saldo em conta aplicado automaticamente em CDB com liquidez diária.</p></article>
+    <article><h3>Investimentos sem mínimo alto</h3><p>Tesouro Direto, CDBs, LCIs e fundos a partir de R$ 1.</p></article>
+    <article><h3>Segurança de banco</h3><p>Garantia do FGC até R$ 250 mil por CPF e instituição.</p></article>
+  </section>
+
+  <!-- Onboarding: variante A/B sorteada e persistida por usuário -->
+  <section class="onboarding" id="abrir-conta" hidden>
+    <h2>Abra sua conta</h2>
+    <p class="variante-info">Variante do teste: <code id="variante"></code></p>
+    <ol class="passos" id="passos"></ol>
+    <form id="form" novalidate></form>
+  </section>
+</main>
+
+<footer class="rodape">
+  <p>Projeto de portfólio de Web Analytics · <a href="https://github.com/viniciusg20/digital-account-funnel">código no GitHub</a></p>
+  <button class="btn btn-sm btn-sec" data-cta="footer">Abrir minha conta</button>
+</footer>
+
+<!-- Banner de consentimento (LGPD) -->
+<div class="consent" id="consent" role="dialog" aria-label="Preferências de cookies">
+  <p>Usamos cookies para medir o uso do site e melhorar campanhas. Você escolhe.</p>
+  <div>
+    <button class="btn btn-sm" id="aceitar">Aceitar todos</button>
+    <button class="btn btn-sm btn-sec" id="essenciais">Só essenciais</button>
+  </div>
+</div>
+
+<!-- Painel de debug: mostra cada push no dataLayer (o que o GTM receberia) -->
+<aside class="debug" id="debug">
+  <header><strong>dataLayer ao vivo</strong><button id="limpar" class="btn btn-sm btn-sec">limpar</button></header>
+  <ol id="log"></ol>
+</aside>
+
+<script src="tracking.js"></script>
+</body>
+</html>
